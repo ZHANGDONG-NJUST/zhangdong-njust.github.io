@@ -20,7 +20,7 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 
 **Journal Reviewer**: IEEE Access, IEEE Transactions on Image Processing, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
-**Conference reviewer**: PRCV'20, Asian MM'21.
+**Conference Reviewer**: PRCV'20, Asian MM'21.
 
 ## Honors and Awards
 
