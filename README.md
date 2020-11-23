@@ -1,4 +1,4 @@
-## Dong Zhang
+## Dong Zhang (张冬)
 
 Now, I am a Ph.D. student at Nanjing University of Science and Technology under supervision of Prof. [Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Hanwang Zhang](https://mreallab.github.io/people.html) in Singapore. My research interests are in machine learning and computer vision, especially in object detection and semantic segmentation.
 
@@ -9,9 +9,9 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, Honghua Ruan. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
 
 ### Conference:
-- Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS oral), 2020.
-- Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020.
-- Dong Zhang, Jinhui Tang, Zechao Li. [Matrix Entropy-driven Maximum Margin Feature Learning](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_29). Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS oral), 2020.
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020.
+- **Dong Zhang**, Jinhui Tang, Zechao Li. [Matrix Entropy-driven Maximum Margin Feature Learning](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_29). Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.
 
 ## Professional Services
 
