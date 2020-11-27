@@ -14,7 +14,7 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS oral), 2020.
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020.
 - [Long Chen](https://zjuchenlong.github.io/), Chujie Lu, Siliang Tang, Jun Xiao, **Dong Zhang**, Chilie Tan, Xiaolin Li. [Rethinking the Bottom-Up Framework for Query-based Video Localization](https://ojs.aaai.org//index.php/AAAI/article/view/6627). Association for the Advancement of Artificial Intelligence (AAAI oral), 2020.
-- Wenxuan Zhang, **Dong Zhang**, Xinguang Xiang. [Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification](http://proceedings.mlr.press/v101/zhang19a.html). Asian Conference on Machine Learning (ACML spotlight), 2019. 
+- Wenxuan Zhang\*, **Dong Zhang**\*, Xinguang Xiang. [Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification](http://proceedings.mlr.press/v101/zhang19a.html). Asian Conference on Machine Learning (ACML spotlight), 2019. 
 - **Dong Zhang**, Jinhui Tang, Zechao Li. [Matrix Entropy-driven Maximum Margin Feature Learning](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_29). Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.
 
 ## Professional Services
