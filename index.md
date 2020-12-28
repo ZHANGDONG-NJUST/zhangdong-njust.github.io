@@ -8,6 +8,7 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 
 ### Journal:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
+- Liyan Zhang, Guojun Qi, **Dong Zhang**, Jinhui Tang. [Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources](https://ieeexplore.ieee.org/document/8166747). IEEE Access, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, Honghua Ruan. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
 
 ### Conference:
