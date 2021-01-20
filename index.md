@@ -24,6 +24,8 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 
 **Conference Reviewer**: PRCV'20, Asian MM'21.
 
+**Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483).
+
 ## Honors and Awards
 
 * Scholarship from The China Scholarship Council, 2018.
