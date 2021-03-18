@@ -11,7 +11,7 @@ Now, I am a Ph.D. student at Nanjing University of Science and Technology under 
 ### Journal:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, Honghua Ruan. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
-- Chengting Zuo\*, **Dong Zhang**\*, Qianhao Wu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://github.com/ZHANGDONG-NJUST/UAM-Net). Pattern Recognition (Under review).
+- Chengting Zuo\*, **Dong Zhang**\*, Qianhao Wu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://github.com/ZHANGDONG-NJUST/UAM-Net). Pattern Recognition, 2020 (Under review).
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020 (Early Access).
 
 ### Conference:
