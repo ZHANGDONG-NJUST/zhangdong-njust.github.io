@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<p align = "justify"> 
+
 I am a Ph.D. student at Nanjing University of Science and Technology under supervision of Prof. [Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Hanwang Zhang](https://mreallab.github.io/people.html) and [Qianru Sun](https://qianrusun.com/) in Singapore. My research interests are in machine learning and computer vision, especially in object detection and semantic segmentation. <font color=red>Now, I am seeking a postdoctor position on computer vision and its applications. Please feel free to drop me an email if you are interested !</font>
-</p>
 
 ## Selected Publications
 
@@ -22,9 +21,7 @@ I am a Ph.D. student at Nanjing University of Science and Technology under super
 
 ## Professional Services
 
-<p align = "justify"> 
 **Journal Reviewer**: IEEE Access, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
-</p>
 
 **Conference Reviewer**: PRCV'20, Asian MM'21.
 
