@@ -24,7 +24,7 @@ I am a Ph.D. student at Nanjing University of Science and Technology under super
 
 ## Professional Services
 
-**Journal Reviewer**: IEEE Access, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
+**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
 **Conference Reviewer**: PRCV'20, Asian MM'21.
 
