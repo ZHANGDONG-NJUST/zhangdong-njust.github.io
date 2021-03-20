@@ -7,7 +7,7 @@ I am a Ph.D. student at Nanjing University of Science and Technology under super
 ## Selected Publications
 
 ### Technical reports:
-- Dong Liang, Zongqi Wei, **Dong Zhang**, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://zhangdong-njust.github.io/). arXiv, 2021.
+- Dong Liang, Zongqi Wei, **Dong Zhang**, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://zhangdong-njust.github.io/). arXiv, 2021. [Codes.](https://github.com/WeiZongqi/CG-Net)
 
 ### Journal articles:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018. [Codes & data.](https://github.com/ZHANGDONG-NJUST/RDSL)
