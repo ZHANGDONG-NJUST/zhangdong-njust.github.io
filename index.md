@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+**Department**: School of Computer Science and Engineering<br/>
+**Office**: Room 2050, CSE Building<br/>
+**Email**: dongzhang@njust.edu.cn<br/>
 I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-njust.net/) at Nanjing University of Science and Technology under supervision of Prof. [Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Hanwang Zhang](https://mreallab.github.io/people.html) and [Qianru Sun](https://qianrusun.com/) in Singapore. My research interests are in machine learning and computer vision, especially in object detection and semantic segmentation.<br/>  <font color=red>Now, I am seeking a postdoctor position on computer vision and its applications. Please feel free to drop me an email if you are interested !</font> 
 
 ## Selected Publications   
@@ -12,7 +14,7 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 ### Journal articles:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018. [Code & data.](https://github.com/ZHANGDONG-NJUST/RDSL)
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, Honghua Ruan. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
-- Chengting Zuo\*, **Dong Zhang**\*, Qianhao Wu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://github.com/ZHANGDONG-NJUST/UAM-Net). Pattern Recognition, 2021 (Under review). [Code](https://github.com/ZHANGDONG-NJUST/UAM-Net)
+- Chengting Zuo\*, **Dong Zhang**\*, Qianhao Wu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://github.com/ZHANGDONG-NJUST/UAM-Net). Pattern Recognition, 2021 (Under review). [Code](https://github.com/ctzuo/UAM-Net)
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020 (Early Access).
 
 ### Conference papers:
@@ -43,11 +45,3 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 * National Scholarships, 2016.
 
 * Best Paper Award in China Forestry Youth Academic Annual Conference, 2015.
-
-## Contact
-
-**Institution**: Nanjing University of Science and Technology, China
-
-**Address**: Room 2050, School of Computer Science and Engineering
-
-**E-mail**:  dongzhang@njust.edu.cn
