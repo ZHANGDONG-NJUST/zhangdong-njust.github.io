@@ -14,7 +14,7 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 ## Selected Publications   
 
 ### Technical reports:
-- Dong Liang, Zongqi Wei, **Dong Zhang**, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://zhangdong-njust.github.io/). arXiv, 2021. [Code](https://github.com/WeiZongqi/CG-Net)
+- Dong Liang, Zongqi Wei, **Dong Zhang**, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://arxiv.org/abs/2103.11399). arXiv, 2021. [Code](https://github.com/WeiZongqi/CG-Net)
 
 ### Journal articles:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018. [Code & data.](https://github.com/ZHANGDONG-NJUST/RDSL)
