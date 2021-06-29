@@ -23,15 +23,15 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020 (Early Access).
 
 ### Conference papers:
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>), 2020. [Code](https://github.com/dongzhang89/FPT)
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020. [Code](https://github.com/dongzhang89/CONTA)
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>), 2020. [Code](https://github.com/dongzhang89/CONTA)
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020. [Code](https://github.com/dongzhang89/FPT)
 - **Dong Zhang**, Jinhui Tang, Zechao Li. [Matrix Entropy-driven Maximum Margin Feature Learning](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_29). Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, **Dong Zhang**, Chilie Tan, Xiaolin Li. [Rethinking the Bottom-Up Framework for Query-based Video Localization](https://ojs.aaai.org//index.php/AAAI/article/view/6627). Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>), 2020. [Code](https://github.com/zjuchenlong)
 - Wenxuan Zhang\*, **Dong Zhang**\*, Xinguang Xiang. [Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification](http://proceedings.mlr.press/v101/zhang19a.html). Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>), 2019. 
 
 ## Professional Services
 
-**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
+**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
 **Conference Reviewer**: PRCV'20, Asian MM'21, MM'21, NeurIPS'21.
 
