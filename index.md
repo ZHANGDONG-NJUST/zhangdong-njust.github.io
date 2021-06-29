@@ -17,7 +17,8 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 - Dong Liang, Zongqi Wei, **Dong Zhang**, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://arxiv.org/abs/2103.11399). arXiv, 2021. [Code](https://github.com/WeiZongqi/CG-Net)
 
 ### Journal articles:
-- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018. [Code & data.](https://github.com/dongzhang89/RDSL)
+- **Dong Zhang\***, Nan Li\*, and Qiaolin Ye. [Positional context aggregation network for remote sensing scene classification](https://ieeexplore.ieee.org/abstract/document/8836508/). IEEE Geoscience and Remote Sensing Letters, 2019.
+- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
 - Chengting Zuo\*, **Dong Zhang**\*, Qianhao Wu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://dongzhang89.github.io). Under review, 2021. [Code](https://github.com/dongzhang89/UAM-Net)
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020 (Early Access).
