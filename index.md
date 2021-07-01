@@ -32,7 +32,7 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 
 **Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, MM'21, NeurIPS'21.
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, NeurIPS'21.
 
 **Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
 
