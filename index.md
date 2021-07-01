@@ -14,7 +14,6 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 ## Selected Publications   
 
 ### Journal articles:
-- **Dong Zhang\***, Nan Li\*, and Qiaolin Ye. [Positional Context Aggregation Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/8836508/). IEEE Geoscience and Remote Sensing Letters, 2019. 
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
 - Dong Liang\*, Zongqi Wei\*, **Dong Zhang**\*, Qixiang Geng, Liyan Zhang, et al. [Learning Calibrated-Guidance for Object Detection in Aerial Images](https://arxiv.org/abs/2103.11399). arXiv, 2021. [Code](https://github.com/WeiZongqi/CG-Net)
