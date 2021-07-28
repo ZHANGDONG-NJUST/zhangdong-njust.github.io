@@ -22,7 +22,7 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020.
 
 ### Conference papers:
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. [Self-Regulation for Semantic Segmentation](https://dongzhang89.github.io/). International Conference on Computer Vision (ICCV), 2021. [Code](https://dongzhang89.github.io/)
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. [Self-Regulation for Semantic Segmentation](https://dongzhang89.github.io/). International Conference on Computer Vision (ICCV), 2021. 
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>), 2020. [Code](https://github.com/dongzhang89/CONTA)
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020. [Code](https://github.com/dongzhang89/FPT)
 - **Dong Zhang**, Jinhui Tang, and Zechao Li. [Matrix Entropy-driven Maximum Margin Feature Learning](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_29). Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.
