@@ -3,11 +3,11 @@ layout: default
 ---
 　<br/>
 　<br/>
-**Office**: Room 2050, CSE Building<br/>
-**E-mail**: <dongzhang@njust.edu.cn><br/>
-**Department**: School of Computer Science and Engineering
+**Office**: ICDC Lab, Cheng Yu Tung Building<br/>
+**E-mail**: <dongz@ust.hk><br/>
+**Department**: Department of Computer Science and Engineering, HKUST
 
-I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-njust.net/) at Nanjing University of Science and Technology under supervision of Prof. [Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Hanwang Zhang](https://mreallab.github.io/people.html) and [Qianru Sun](https://qianrusun.com/) in Singapore. Now, my research interests are in machine learning and computer vision, especially in object detection, semantic segmentation, scene parsing, video object segmentation and cross-scene segmentation.
+Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of [Prof. Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Prof. Hanwang Zhang](https://mreallab.github.io/people.html) and [Prof. Qianru Sun](https://qianrusun.com/). My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, scene parsing, video object segmentation and cross-scene segmentation.
 
 -----
 
@@ -29,7 +29,7 @@ I am a Ph.D. student in [Intelligent Media Analysis Group (IMAG)](https://imag-n
 
 **Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, NeurIPS'21.
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, NeurIPS'21, ICLR'22, ICML'22, AAAI'22, ACM MM'21.
 
 **Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
 
