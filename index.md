@@ -14,6 +14,7 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 ## Selected Publications   
 
 ### Journal articles:
+- **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022. [Code](https://github.com/ctzuo/UAM-Net)
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
 - Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020.
