@@ -15,9 +15,10 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ### Journal articles:
 - **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022.
-- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics, 2018.
-- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers & Electronics in Agriculture, 2017.
-- Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020.
+- **Dong Zhang**, Nan Li, Qiaolin Ye. Positional Context Aggregation Network for Remote Sensing Scene Classification. IEEE Geoscience and Remote Sensing Letters, 2019, 17(6): 943-947.
+- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics, 2018, 50(5): 2138-2151.
+- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers & Electronics in Agriculture, 2017, 136: 97-110.
+- Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020, 59(10): 8257-8268.
 - Zongqi Wei\*, Dong Liang\*, **Dong Zhang**\*, Liyan Zhang, Qixiang Geng, Mingqiang Wei and Huiyu Zhou. Learning Calibrated-Guidance for Object Detection in Aerial Images. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
 
 ### Conference papers:
