@@ -7,42 +7,41 @@ layout: default
 **E-mail**: <dongz@ust.hk><br/>
 **Department**: Department of Computer Science and Engineering, HKUST
 
-Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of [Prof. Jinhui Tang](https://imag-njust.net/jinhui-tang/). During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of [Prof. Hanwang Zhang](https://mreallab.github.io/people.html) and [Prof. Qianru Sun](https://qianrusun.com/). My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, scene parsing, video object segmentation and cross-scene segmentation.
+Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of Prof. Jinhui Tang. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, scene parsing, video object segmentation and cross-scene segmentation.
 
 -----
 
 ## Selected Publications   
 
 ### Journal articles:
-- **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. [Unabridged Adjacent Modulation for Clothing Parsing](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000759). Pattern Recognition, 2022. [Code](https://github.com/ctzuo/UAM-Net)
-- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. [Recursive Discriminative Subspace Learning with L1-norm Distance Constraint](https://ieeexplore.ieee.org/document/8573145). IEEE Transactions on Cybernetics, 2018.
-- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. [Robust Learning-based Prediction for Timber-volume of Living Trees](https://www.sciencedirect.com/science/article/abs/pii/S0168169916306366). Computers & Electronics in Agriculture, 2017.
-- Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. [Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition](https://ieeexplore.ieee.org/document/9305284). IEEE Transactions on Geoscience and Remote Sensing, 2020.
+- **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022.
+- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics, 2018.
+- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers & Electronics in Agriculture, 2017.
+- Liyong Fu\*, **Dong Zhang**\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020.
+- Zongqi Wei\*, Dong Liang\*, **Dong Zhang**\*, Liyan Zhang, Qixiang Geng, Mingqiang Wei and Huiyu Zhou. Learning Calibrated-Guidance for Object Detection in Aerial Images. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
 
 ### Conference papers:
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. [Self-Regulation for Semantic Segmentation](https://arxiv.org/abs/2108.09702). International Conference on Computer Vision (ICCV), 2021. [Code](https://github.com/dongzhang89/SR-SS)
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://papers.nips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf). Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>), 2020. [Code](https://github.com/dongzhang89/CONTA)
-- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. [Feature Pyramid Transformer](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730324.pdf). European Conference on Computer Vision (ECCV), 2020. [Code](https://github.com/dongzhang89/FPT)
-- Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, **Dong Zhang**, Chilie Tan, and Xiaolin Li. [Rethinking the Bottom-Up Framework for Query-based Video Localization](https://ojs.aaai.org//index.php/AAAI/article/view/6627). Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>), 2020. 
-- Wenxuan Zhang\*, **Dong Zhang**\*, and Xinguang Xiang. [Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification](http://proceedings.mlr.press/v101/zhang19a.html). Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>), 2019. 
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. International Conference on Computer Vision (ICCV), 2021.
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Causal Intervention for Weakly-Supervised Semantic Segmentation. Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>), 2020.
+- **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. Feature Pyramid Transformer. European Conference on Computer Vision (ECCV), 2020.
+- Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, **Dong Zhang**, Chilie Tan, and Xiaolin Li. Rethinking the Bottom-Up Framework for Query-based Video Localization. Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>), 2020. 
+- Wenxuan Zhang\*, **Dong Zhang**\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>), 2019. 
 
 ## Professional Services
 
 **Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, NeurIPS'21, ICLR'22, ICML'22, AAAI'22, ACM MM'21.
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, ACM MM'21, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
 
 **Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
 
 ## Honors and Awards
 
-* The Second Level Academic Scholarship, 2020.
+* Best Paper Award at Long-Tailed Distribution Learning Workshop, IJCAI 2021
 
 * Scholarship from The China Scholarship Council, 2018.
 
 * The First Level Academic Scholarship, 2015/2016/2017.
-
-* Pacemaker to Merit Student of NJFU, 2016.
 
 * National Scholarships, 2016.
 
