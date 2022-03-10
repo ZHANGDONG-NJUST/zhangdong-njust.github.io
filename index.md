@@ -29,14 +29,6 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, Dong Zhang, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>), 2020. 
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>), 2019. 
 
-## Professional Services
-
-**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
-
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, ACM MM'21, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
-
-**Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
-
 ## Honors and Awards
 
 * Best Paper Award, IJCAI Workshop, 2021
@@ -48,3 +40,11 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 * National Scholarships, 2016.
 
 * Best Paper Award, 2015.
+
+## Professional Services
+
+**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
+
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, ACM MM'21, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
+
+**Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
