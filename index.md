@@ -7,7 +7,7 @@ layout: default
 **E-mail**: <dongz@ust.hk><br/>
 **Department**: Department of Computer Science and Engineering, HKUST
 
-Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of Prof. Jinhui Tang. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, scene parsing, video object segmentation and cross-scene segmentation.
+Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of Prof. Jinhui Tang. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, video object segmentation and cross-scene segmentation.
 
 -----
 
@@ -43,8 +43,8 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Professional Services
 
-**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
+**Journal Reviewer**: TIP, TNNLS, TCSVT, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21, ACM MM'21, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
 
 **Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
