@@ -39,12 +39,12 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Honors and Awards
 
-* Best Paper Award at Long-Tailed Distribution Learning Workshop, IJCAI 2021
+* Best Paper Award, IJCAI Workshop, 2021
 
-* Scholarship from The China Scholarship Council, 2018.
+* Scholarship from CSC, 2018.
 
-* The First Level Academic Scholarship, 2015/2016/2017.
+* Academic Scholarship, 2015/2016/2017.
 
 * National Scholarships, 2016.
 
-* Best Paper Award in China Forestry Youth Academic Annual Conference, 2015.
+* Best Paper Award, 2015.
