@@ -17,9 +17,9 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022.
 - **Dong Zhang**, Nan Li, Qiaolin Ye.Positional Context Aggregation Network for Remote Sensing Scene Classification. IEEE Geoscience and Remote Sensing Letters, 2019.
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics, 2018.
-- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers & Electronics in Agriculture, 2017.
+- **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers and Electronics in Agriculture, 2017.
 - Liyong Fu\*, Dong Zhang\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020.
-- Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
+- Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. arXiv, 2022. 
 
 ### Conference papers:
@@ -44,8 +44,8 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Professional Services
 
-**Journal Reviewer**: TIP, TNNLS, TCSVT, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR.
+**Journal Reviewer**: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Access, IEEE Transactions on Geoscience and Remote Sensing, KSII Transactions on Internet and Information Systems, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Pattern Recognition.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
+**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21, AAAI'22, ICLR'22, ICML'22, ECCV'22.
 
 **Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483).
