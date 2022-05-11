@@ -20,6 +20,7 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers & Electronics in Agriculture, 2017.
 - Liyong Fu\*, Dong Zhang\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020.
 - Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
+- Jeffry Wicaksana, Zengqiang Yan, **Dong Zhang**, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. arXiv preprint, 2022. 
 
 ### Conference papers:
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. International Conference on Computer Vision (ICCV), 2021.
@@ -47,4 +48,4 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21, AAAI'22, ICLR'22, ICML'22.
 
-**Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483), NUAA Weekly Seminar.
+**Invited Talk**: [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), [TechBeat](https://www.techbeat.net/talk-info?id=483).
