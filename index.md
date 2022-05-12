@@ -33,8 +33,9 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ### 2018 and before:
 - **Dong Zhang**, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics, 2018.
+- **Dong Zhang**, Jinhui Tang, and Zechao Li. Matrix Entropy Driven Maximum Margin Feature Learning. Pacific Rim International Conference on Artificial Intelligence, 2018.
 - **Dong Zhang**, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers and Electronics in Agriculture, 2017.
-
+- Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. IEEE Access, 2017. 
 
 ## Professional Services
 
