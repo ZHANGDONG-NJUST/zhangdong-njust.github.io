@@ -39,7 +39,7 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Professional Services
 
-**Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR.
+**Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
 
 **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
 
