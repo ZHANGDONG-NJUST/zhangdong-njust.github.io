@@ -16,6 +16,7 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022.
 - Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. arXiv, 2022. 
+- Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, Qiaolin Ye. Learning to Reduce Information Bottleneck for Object Detection in Aerial Images. arXiv, 2022.
 
 ### 2021:
 - **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. International Conference on Computer Vision (ICCV), 2021.
