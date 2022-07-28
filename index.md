@@ -13,6 +13,7 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Selected Publications   
 ### 2022:
+- **Dong Zhang**, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. SCIENCE CHINA Information Sciences 2022.
 - **Dong Zhang**, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. ACM International Conference on Multimedia (ACM MM), 2022.
 - **Dong Zhang**, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. Pattern Recognition, 2022.
 - Yangjun Mao, Long Chen, Zhihong Jiang, Dong Zhang, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. ACM International Conference on Multimedia (ACM MM), 2022.
