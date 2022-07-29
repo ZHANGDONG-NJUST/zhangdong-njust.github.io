@@ -42,12 +42,11 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. IEEE Access, 2017. 
 
 ## Professional Services
+- **Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
 
-**Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
+- **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
 
-**Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
-
-**Invited Talk**:  
+## Invited Talk
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
 - [TechBeat](https://www.techbeat.net/talk-info?id=483)
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
