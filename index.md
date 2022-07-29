@@ -8,6 +8,7 @@ layout: default
 **Department**: Department of Computer Science and Engineering, HKUST
 
 <div align="justify">
+	
 Now, I am a postdoctoral research scientist at [Vision and System Design Lab](http://vsdl.ust.hk/people.html), The Hong Kong University of Science and Technology (HKUST) working with [Prof. Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under supervision of Prof. Jinhui Tang. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at Nanyang Technological University under supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning and computer vision, especially in semantic segmentation, object detection, video object segmentation and cross-scene segmentation.
 </div>
 
