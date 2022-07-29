@@ -48,8 +48,8 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
 
 **Invited Talk**:  
-- [Damo Academy 阿里达摩院扫地僧](https://t.bilibili.com/464398595921845696?tab=2)
-- [TechBeat 人工智能社区](https://www.techbeat.net/talk-info?id=483)-
+- [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
+- [TechBeat](https://www.techbeat.net/talk-info?id=483)
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
 
 ## Honors and Awards
