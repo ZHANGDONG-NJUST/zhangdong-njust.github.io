@@ -43,7 +43,6 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 
 ## Professional Services
 - **Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
-
 - **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
 
 ## Invited Talk
@@ -52,13 +51,8 @@ Now, I am a postdoctoral research scientist at [Vision and System Design Lab](ht
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
 
 ## Honors and Awards
-
-* Best Paper Award, IJCAI Workshop, 2021
-
-* Scholarship from CSC, 2018.
-
-* Academic Scholarship, 2015/2016/2017.
-
-* National Scholarships, 2016.
-
-* Best Paper Award, 2015.
+- Best Paper Award, IJCAI Workshop, 2021
+- Scholarship from CSC, 2018.
+- Academic Scholarship, 2015/2016/2017.
+- National Scholarships, 2016.
+- Best Paper Award, 2015.
