@@ -3,8 +3,9 @@ layout: default
 ---
 　<br/>
 　<br/>
+**Email**: <dongz@ust.hk><br/>
 **Office**: ICDC Lab, Cheng Yu Tung Building<br/>
-**E-mail**: <dongz@ust.hk><br/>
+**Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 **Department**: Department of Computer Science and Engineering, HKUST
 
 <div align="justify">
