@@ -5,12 +5,15 @@ layout: default
 ### About Me
 <div align="justify">
 Now, I am a postdoctoral research scientist at 
-<a href="http://vsdl.ust.hk/people.html">Vision and System Design Lab (VSDL)</a>, The Hong Kong University of Science and Technology working with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting CHENG</a>. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under the supervision of <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at MReaL Lab of Nanyang Technological University under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning, computer vision and medical image analysis, especially in image classification, scene semantic segmentation, object detection, and their potential applications. 
+<a href="http://vsdl.ust.hk/people.html">Vision and System Design Lab (VSDL)</a>, The Hong Kong University of Science and Technology working with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting CHENG</a>. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under the supervision of <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at MReaL Lab of Nanyang Technological University under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun.  
+My research interests are in machine learning, computer vision and medical image analysis, especially in image classification, scene semantic segmentation, object detection, and their potential applications. 
 </div>
 
-**Email**: <dongz@ust.hk><br/>
-**Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
-**Department**: Department of Computer Science and Engineering, HKUST
+### Contact Information
+- **Email**: <dongz@ust.hk><br/>
+- **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
+- **Office**: ICDC Lab, Cheng Yu Tung Building, HKUST
+- **Department**: Department of Computer Science and Engineering, Clear Water Bay
 　<br/>
 
 -----
