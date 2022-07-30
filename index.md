@@ -4,10 +4,10 @@ layout: default
 　<br/>
 　<br/>
 **Email**: <dongz@ust.hk><br/>
-**Office**: ICDC Lab, Cheng Yu Tung Building<br/>
 **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 **Department**: Department of Computer Science and Engineering, HKUST
 
+## About Me
 <div align="justify">
 
 Now, I am a postdoctoral research scientist at 
@@ -48,7 +48,7 @@ Now, I am a postdoctoral research scientist at
 - Dong Zhang, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. Computers and Electronics in Agriculture, 2017.
 - Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. IEEE Access, 2017. 
 
-## Professional Services
+## Services
 - **Journal Reviewer**: TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
 - **Conference Reviewer**: PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
 
