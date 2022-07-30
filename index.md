@@ -57,9 +57,9 @@ Now, I am a postdoctoral research scientist at
 - International Conference on Machine Learning, 2021-2022
 - Conference on Pattern Recognition and Computer Vision, 2020
 - ACM International Conference on Multimedia in Asia, 2021-2022
+- Association for the Advancement of Artificial Intelligence, 2022
 - Conference on Neural Information Processing Systems, 2021-2022
 - International Conference on Learning Representations, 2022-2023
-- Association for the Advancement of Artificial Intelligence, 2022
 
 #### 🌻 Invited Talks:
 - [TechBeat](https://www.techbeat.net/talk-info?id=483)
