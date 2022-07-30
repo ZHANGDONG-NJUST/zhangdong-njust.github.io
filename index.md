@@ -9,12 +9,12 @@ Now, I am a postdoctoral research scientist at
 My research interests are in machine learning, computer vision and medical image analysis, especially in image classification, scene semantic segmentation, object detection, and their potential applications. 
 </div>
 
+
 ### Contact Information
 - **Email**: <dongz@ust.hk><br/>
 - **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 - **Office**: ICDC Lab, Cheng Yu Tung Building, HKUST
-- **Department**: Department of Computer Science and Engineering, Clear Water Bay
-　<br/>
+- **Department**: Department of Computer Science and Engineering
 
 -----
 
