@@ -42,30 +42,26 @@ Now, I am a postdoctoral research scientist at
 
 ### Services
 #### Journal Reviewers:
-<ul style="margin:0 0 20px;">
-  <li>IEEE Transactions on Multimedia (TMM)</li>
-  <li>IEEE Transactions on Image Processing (TIP)</li>
-  <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
-  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
-  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
-  <li>IEEE Access</li>
-  <li>Neurocomputing </li>
-  <li>Pattern Recognition (PR)</li>
-  <li>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
-  <li>KSII Transactions on Internet and Information Systems (KSII TIIS)</li>
-</ul>
+- IEEE Transactions on Multimedia
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Circuits and Systems for Video Technolog
+- IEEE Access
+- Neurocomputing 
+- Pattern Recognition
+- IEEE Transactions on Geoscience and Remote Sensing
+- KSII Transactions on Internet and Information Systems
 
 #### Conference Reviewers: 
-<ul style="margin:0 0 20px;">
-- European Conference on Computer Vision (ECCV), 2021-2022
-- ACM International Conference on Multimedia (MM), 2021-2022
-- International Conference on Machine Learning (ICML), 2021-2022
-- International Conference on Learning Representations (ICLR), 2022-2023
-- ACM International Conference on Multimedia in Asia (MM Asia), 2021-2022
-- Association for the Advancement of Artificial Intelligence (AAAI), 2022
-- Conference on Neural Information Processing Systems (NeurIPS), 2021-2022
-- Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020
-</ul>
+- European Conference on Computer Vision, 2021-2022
+- ACM International Conference on Multimedia, 2021-2022
+- International Conference on Machine Learning, 2021-2022
+- International Conference on Learning Representations, 2022-2023
+- ACM International Conference on Multimedia in Asia, 2021-2022
+- Association for the Advancement of Artificial Intelligence, 2022
+- Conference on Neural Information Processing Systems, 2021-2022
+- Chinese Conference on Pattern Recognition and Computer Vision, 2020
 
 ### Invited Talk
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
