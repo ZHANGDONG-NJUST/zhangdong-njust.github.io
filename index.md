@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<br/>
-
 ### About Me
 
 <div align="justify">
