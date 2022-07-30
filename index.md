@@ -8,10 +8,12 @@ layout: default
 <div align="justify">
 Now, I am a postdoctoral research scientist at 
 <a href="http://vsdl.ust.hk/people.html">Vision and System Design Lab (VSDL)</a>, The Hong Kong University of Science and Technology working with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting CHENG</a>. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under the supervision of <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at MReaL Lab of Nanyang Technological University under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. My research interests are in machine learning, computer vision and medical image analysis, especially in image classification, scene semantic segmentation, object detection, and their potential applications. </div>
+　<br/>
 
 -----
 
-### Publications   
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://orcid.org/0000-0002-4543-2179"_blank" style="font-size:15px;">ORCiD</a><temp style="font-size:15px;">]</temp></h2>
+
 #### 2022:
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. SCIENCE CHINA Information Sciences, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. ACM International Conference on Multimedia (ACM MM), 2022.
