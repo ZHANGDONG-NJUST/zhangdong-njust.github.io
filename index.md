@@ -32,30 +32,27 @@ Now, I am a postdoctoral research scientist at
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, Dong Zhang, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. *Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>)*, 2020. 
 - Liyong Fu\*, Dong Zhang\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. *IEEE Transactions on Geoscience and Remote Sensing*, 2020.
 
-#### 2019:
+#### 2019 and before:
 - Dong Zhang, Nan Li, Qiaolin Ye.Positional Context Aggregation Network for Remote Sensing Scene Classification. *IEEE Geoscience and Remote Sensing Letters*, 2019.
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. *Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>)*, 2019. 
-
-#### 2018 and before:
 - Dong Zhang, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. *IEEE Transactions on Cybernetics*, 2018.
 - Dong Zhang, Jinhui Tang, and Zechao Li. Matrix Entropy Driven Maximum Margin Feature Learning. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2018.
 - Dong Zhang, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. *Computers and Electronics in Agriculture*, 2017.
 - Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. *IEEE Access*, 2017. 
 
 ### Services
-
 #### Journal Reviewers:
 <ul style="margin:0 0 20px;">
-- IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Image Processing (TIP)
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- IEEE Access
-- Neurocomputing 
-- Pattern Recognition (PR)
-- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-- KSII Transactions on Internet and Information Systems (KSII TIIS)
+  <li>IEEE Transactions on Multimedia (TMM)</li>
+  <li>IEEE Transactions on Image Processing (TIP)</li>
+  <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>IEEE Access</li>
+  <li>Neurocomputing </li>
+  <li>Pattern Recognition (PR)</li>
+  <li>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
+  <li>KSII Transactions on Internet and Information Systems (KSII TIIS)</li>
 </ul>
 
 #### Conference Reviewers: 
