@@ -59,9 +59,9 @@ Now, I am a postdoctoral research scientist at
 - ACM International Conference on Multimedia in Asia, 2021-2022
 - Association for the Advancement of Artificial Intelligence, 2022
 - Conference on Neural Information Processing Systems, 2021-2022
-- Chinese Conference on Pattern Recognition and Computer Vision, 2020
+- Conference on Pattern Recognition and Computer Vision, 2020
 
-### Invited Talk
+#### Invited Talks:
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
 - [TechBeat](https://www.techbeat.net/talk-info?id=483)
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
