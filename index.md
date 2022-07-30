@@ -42,28 +42,28 @@ Now, I am a postdoctoral research scientist at
 #### 🌻 Journal Reviewers:
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Image Processing
+- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Circuits and Systems for Video Technolog
 - IEEE Access
 - Neurocomputing 
 - Pattern Recognition
-- IEEE Transactions on Geoscience and Remote Sensing
 - KSII Transactions on Internet and Information Systems
 
 #### 🌻 Conference Reviewers: 
 - European Conference on Computer Vision, 2021-2022
 - ACM International Conference on Multimedia, 2021-2022
 - International Conference on Machine Learning, 2021-2022
-- International Conference on Learning Representations, 2022-2023
-- ACM International Conference on Multimedia in Asia, 2021-2022
-- Association for the Advancement of Artificial Intelligence, 2022
-- Conference on Neural Information Processing Systems, 2021-2022
 - Conference on Pattern Recognition and Computer Vision, 2020
+- ACM International Conference on Multimedia in Asia, 2021-2022
+- Conference on Neural Information Processing Systems, 2021-2022
+- International Conference on Learning Representations, 2022-2023
+- Association for the Advancement of Artificial Intelligence, 2022
 
 #### 🌻 Invited Talks:
-- [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
 - [TechBeat](https://www.techbeat.net/talk-info?id=483)
+- [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
 
 ### Honors and Awards
