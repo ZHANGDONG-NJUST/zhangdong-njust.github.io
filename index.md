@@ -73,10 +73,4 @@ Now, I am a postdoctoral research scientist at
 - National Scholarships, 2016
 - Best Paper Award Runner-Up, 2015
 
-### Contact
-- **Email**: <dongz@ust.hk><br/>
-- **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
-- **Office**: ICDC Lab, CYT Building, HKUST, Clear Water Bay
-- **Department**: Department of Computer Science and Engineering
-
 -----
