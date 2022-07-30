@@ -71,7 +71,7 @@ Now, I am a postdoctoral research scientist at
 - Scholarship from CSC, 2018
 - Academic Scholarship, 2015/2016/2017
 - National Scholarships, 2016
-- Best Paper Award, 2015
+- Best Paper Award Runner-Up, 2015
 
 ### Contact
 - **Email**: <dongz@ust.hk><br/>
