@@ -11,7 +11,7 @@ Now, I am a postdoctoral research scientist at
 -----
 
 ### Publications   
-#### 2022:
+#### 👀 2022:
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
@@ -20,17 +20,17 @@ Now, I am a postdoctoral research scientist at
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *arXiv*, 2022. 
 - Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *arXiv*, 2022.
 
-#### 2021:
+#### 👀 2021:
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. *International Conference on Computer Vision (ICCV)*, 2021.
 - Chengcheng Yuan, Hao Tang, Dong Zhang, Xinguang Xiang and Zechao Li. Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition. *International Joint Conference on Artificial Intelligence (IJCAI Workshop <font color=red>Oral, Best Paper Award</font>)*, 2021.
 
-#### 2020:
+#### 👀 2020:
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Causal Intervention for Weakly-Supervised Semantic Segmentation. *Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>)*, 2020.
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. Feature Pyramid Transformer. *European Conference on Computer Vision (ECCV)*, 2020.
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, Dong Zhang, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. *Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>)*, 2020. 
 - Liyong Fu\*, Dong Zhang\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. *IEEE Transactions on Geoscience and Remote Sensing*, 2020.
 
-#### 2019 and before:
+#### 👀 2019 and before:
 - Dong Zhang, Nan Li, Qiaolin Ye.Positional Context Aggregation Network for Remote Sensing Scene Classification. *IEEE Geoscience and Remote Sensing Letters*, 2019.
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. *Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>)*, 2019. 
 - Dong Zhang, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. *IEEE Transactions on Cybernetics*, 2018.
@@ -39,7 +39,7 @@ Now, I am a postdoctoral research scientist at
 - Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. *IEEE Access*, 2017. 
 
 ### Services
-#### Journal Reviewers:
+#### 🌻 Journal Reviewers:
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Knowledge and Data Engineering
@@ -51,7 +51,7 @@ Now, I am a postdoctoral research scientist at
 - IEEE Transactions on Geoscience and Remote Sensing
 - KSII Transactions on Internet and Information Systems
 
-#### Conference Reviewers: 
+#### 🌻 Conference Reviewers: 
 - European Conference on Computer Vision, 2021-2022
 - ACM International Conference on Multimedia, 2021-2022
 - International Conference on Machine Learning, 2021-2022
@@ -61,7 +61,7 @@ Now, I am a postdoctoral research scientist at
 - Conference on Neural Information Processing Systems, 2021-2022
 - Conference on Pattern Recognition and Computer Vision, 2020
 
-##### Invited Talks:
+#### 🌻 Invited Talks:
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
 - [TechBeat](https://www.techbeat.net/talk-info?id=483)
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
@@ -78,4 +78,5 @@ Now, I am a postdoctoral research scientist at
 - **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 - **Office**: ICDC Lab, CYT Building, HKUST, Clear Water Bay
 - **Department**: Department of Computer Science and Engineering
+
 -----
