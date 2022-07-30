@@ -45,6 +45,7 @@ Now, I am a postdoctoral research scientist at
 ### Services
 
 #### Journal Reviewers:
+<ul style="margin:0 0 20px;">
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -55,8 +56,10 @@ Now, I am a postdoctoral research scientist at
 - Pattern Recognition (PR)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - KSII Transactions on Internet and Information Systems (KSII TIIS)
+</ul>
 
 #### Conference Reviewers: 
+<ul style="margin:0 0 20px;">
 - European Conference on Computer Vision (ECCV), 2021-2022
 - ACM International Conference on Multimedia (MM), 2021-2022
 - International Conference on Machine Learning (ICML), 2021-2022
@@ -65,6 +68,7 @@ Now, I am a postdoctoral research scientist at
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022
 - Conference on Neural Information Processing Systems (NeurIPS), 2021-2022
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020
+</ul>
 
 ### Invited Talk
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
