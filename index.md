@@ -7,7 +7,7 @@ layout: default
 **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 **Department**: Department of Computer Science and Engineering, HKUST
 
-## About Me
+### About Me
 <div align="justify">
 
 Now, I am a postdoctoral research scientist at 
@@ -18,7 +18,7 @@ Now, I am a postdoctoral research scientist at
 
 -----
 
-## Selected Publications   
+## Publications   
 ### 2022:
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. SCIENCE CHINA Information Sciences, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. ACM International Conference on Multimedia (ACM MM), 2022.
