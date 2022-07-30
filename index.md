@@ -44,13 +44,27 @@ Now, I am a postdoctoral research scientist at
 
 ### Services
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+#### Journal Reviewers:
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Access
+- Neurocomputing 
+- Pattern Recognition (PR)
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- KSII Transactions on Internet and Information Systems (KSII TIIS)
 
-TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomputing.
-
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
- PRCV'20, Asian MM'21, ACM MM'21/22, NeurIPS'21/22, AAAI'22, ICLR'22, ICML'21/22, ECCV'21/22.
+#### Conference Reviewers: 
+- European Conference on Computer Vision (ECCV), 2021-2022
+- ACM International Conference on Multimedia (MM), 2021-2022
+- International Conference on Machine Learning (ICML), 2021-2022
+- International Conference on Learning Representations (ICLR), 2022-2023
+- ACM International Conference on Multimedia in Asia (MM Asia), 2021-2022
+- Association for the Advancement of Artificial Intelligence (AAAI), 2022
+- Conference on Neural Information Processing Systems (NeurIPS), 2021-2022
+- Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020
 
 ### Invited Talk
 - [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
@@ -65,8 +79,7 @@ TIP, TNNLS, TCSVT, TMM, IEEE Access, TGRS, KSII TIIS, IEEE JSTARS, PR, Neurocomp
 - Best Paper Award, 2015.
 
 
-
-### Contact Information
+### Contact
 - **Email**: <dongz@ust.hk><br/>
 - **Google Scholar**: [zxVy7sIAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN)<br/>
 - **Office**: ICDC Lab, Cheng Yu Tung Building, HKUST
