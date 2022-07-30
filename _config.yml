@@ -1,6 +1,6 @@
 title: Dong ZHANG (张冬)
 logo: /assets/img/logo.jpg
 description: Welcome to My Homepage.
-show_downloads: true
-google_analytics: true
+show_downloads: false
+google_analytics: 
 theme: jekyll-theme-minimal
