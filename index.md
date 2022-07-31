@@ -50,7 +50,9 @@ My research interests are in machine learning, computer vision and medical image
 - IEEE Transactions on Circuits and Systems for Video Technolog
 - IEEE Access
 - Neurocomputing 
+- Neural Networks
 - Pattern Recognition
+- Computers and Electronics in Agriculture
 - KSII Transactions on Internet and Information Systems
 
 #### 🌻 Conference Reviewers: 
@@ -69,10 +71,10 @@ My research interests are in machine learning, computer vision and medical image
 - [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
 
 ### Honors and Awards
-- Best Paper Award, IJCAI Workshop, 2021
+- Best Paper Award, 2021
 - Scholarship from CSC, 2018
-- Academic Scholarship, 2015/2016/2017
 - National Scholarships, 2016
+- Academic Scholarship, 2015-2017
 - Best Paper Award Runner-Up, 2015
 
 -----
