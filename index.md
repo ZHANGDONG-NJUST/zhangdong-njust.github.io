@@ -12,27 +12,6 @@ Now, I am a postdoctoral research scientist at
 
 ### Publications   
 #### 👀 2022:
-<div class="publications">
-<ol class="bibliography">
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/augfcn.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">SCI China</abbr>
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698">Augmented FCN: Rethinking Context Modeling for Semantic Segmentation</a></div>
-      <div class="author">Dong Zhang, Liyan Zhang, and Jinhui Tang</div>
-      <div class="periodical"><em>CIENCE CHINA Information Sciences, 2022.</em>
-      </div>
-  </div>
-</div>
-</li>
-
-</ol>
-</div>
-
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
