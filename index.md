@@ -8,7 +8,7 @@ Now, I am a postdoctoral research scientist at
 <a href="http://vsdl.ust.hk/people.html">Vision and System Design Lab (VSDL)</a>, The Hong Kong University of Science and Technology working with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting CHENG</a>. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under the supervision of <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint PhD. student at MReaL of Nanyang Technological University under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. </p>
 
 <p align="justify">
-My research interests are in machine learning, computer vision and medical image analysis, especially in image classification, semantic segmentation, object detection, and their potential applications. </p>
+My research interests are in machine learning, image processing, computer vision and medical image analysis, especially in image classification, semantic segmentation, object detection, and their potential applications. </p>
 
 -----
 
@@ -66,9 +66,10 @@ My research interests are in machine learning, computer vision and medical image
 - International Conference on Learning Representations, 2022-2023
 
 #### 🌻 Invited Talks:
-- [TechBeat](https://www.techbeat.net/talk-info?id=483)
-- [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2)
-- [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/)
+- To be confirmed, [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/), 2023
+- Graph Reasoning Transformer for Pixel-Level Image Semantic Recognition, [智东西公开课](https://course.zhidx.com/), 2022
+- 基于因果干预的弱监督图像语义分割, [TechBeat](https://www.techbeat.net/talk-info?id=483), 2020
+- Causal Intervention for Weakly-Supervised Semantic Segmentation, [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), 2020
 
 ### Honors and Awards
 - Best Paper Award, 2021
