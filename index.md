@@ -17,10 +17,11 @@ My research interests are in machine learning, image processing, computer vision
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
+- Zenan Shi, Haipeng Jing, Dong Zhang, and Xuanjing Shen. Pretraining-Driven Multimodal Boundary Aware Vision Transformer. *Journal of Software (in Chinese)*, 2022.
 - Yangjun Mao, Long Chen, Zhihong Jiang, Dong Zhang, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. *ACM International Conference on Multimedia (ACM MM)*, 2022.
-- Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
-- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *arXiv*, 2022. 
-- Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *arXiv*, 2022.
+- Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, and Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
+- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *arXiv*, 2022. 
+- Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, and Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *arXiv*, 2022.
 
 #### 👀 2021:
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. *International Conference on Computer Vision (ICCV)*, 2021.
@@ -66,7 +67,7 @@ My research interests are in machine learning, image processing, computer vision
 - International Conference on Learning Representations, 2022-2023
 
 #### 🌻 Invited Talks:
-- To be confirmed, [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/), 2023
+- Graph-Based Vision Transformer, [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/), 2023
 - GReaT for Pixel-Level Image Parsing, [智东西公开课](https://course.zhidx.com/), 2022
 - 基于因果干预的弱监督图像语义分割, [TechBeat](https://www.techbeat.net/talk-info?id=483), 2020
 - Weakly-Supervised Semantic Segmentation, [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), 2020
