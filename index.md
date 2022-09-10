@@ -68,7 +68,7 @@ My research interests are in machine learning, image processing, computer vision
 
 #### 🌻 Invited Talks:
 - Graph-Based Vision Transformer, [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/), 2023
-- GReaT for Pixel-Level Image Parsing, [智东西公开课](https://course.zhidx.com/), 2022
+- GReaT for Pixel-Level Image Parsing, [智东西公开课](https://course.zhidx.com/c/MmFlNDMyNTEwOWYwNmM0ZDgyYTM=), 2022
 - 基于因果干预的弱监督图像语义分割, [TechBeat](https://www.techbeat.net/talk-info?id=483), 2020
 - Weakly-Supervised Semantic Segmentation, [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), 2020
 
