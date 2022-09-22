@@ -14,6 +14,7 @@ My research interests are in machine learning, image processing, computer vision
 
 ### Publications   
 #### 👀 2022:
+- Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions. *arXiv*, 2022.
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
