@@ -13,6 +13,9 @@ My research interests are in machine learning, image processing, computer vision
 -----
 
 ### Publications   
+#### 👀 2023:
+- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
+
 #### 👀 2022:
 - Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions. *arXiv*, 2022.
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
@@ -22,7 +25,6 @@ My research interests are in machine learning, image processing, computer vision
 - Yangjun Mao, Long Chen, Zhihong Jiang, Dong Zhang, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, and Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 - Yu Quan, Dong Zhang, Liyan Zhang, and Jinhui Tang. Centralized Feature Pyramid for Object Detection. *arXiv*, 2022.
-- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2022. 
 - Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, and Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *arXiv*, 2022.
 
 #### 👀 2021:
