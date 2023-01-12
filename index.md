@@ -21,7 +21,7 @@ My research interests are in machine learning, image processing, computer vision
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
-- Zenan Shi, Haipeng Jing, Dong Zhang, and Xuanjing Shen. Pretraining-Driven Multimodal Boundary Aware Vision Transformer. *Journal of Software (in Chinese)*, 2022.
+- Zenan Shi, Haipeng Chen, Dong Zhang, and Xuanjing Shen. Pretraining-Driven Multimodal Boundary Aware Vision Transformer. *Journal of Software (in Chinese)*, 2022.
 - Yangjun Mao, Long Chen, Zhihong Jiang, Dong Zhang, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, and Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 - Yu Quan, Dong Zhang, Liyan Zhang, and Jinhui Tang. Centralized Feature Pyramid for Object Detection. *arXiv*, 2022.
