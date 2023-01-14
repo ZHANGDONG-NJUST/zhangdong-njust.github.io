@@ -48,6 +48,7 @@ My research interests are in machine learning, image processing, computer vision
 ### Services
 #### 🌻 Journal Reviewers:
 - IEEE Transactions on Multimedia
+- IEEE Transactions on Cybernetics
 - IEEE Transactions on Medical Imaging
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Geoscience and Remote Sensing
@@ -58,6 +59,7 @@ My research interests are in machine learning, image processing, computer vision
 - Neurocomputing 
 - Neural Networks
 - Pattern Recognition
+- Journal of Applied Remote Sensing
 - Computers and Electronics in Agriculture
 - IEEE Geoscience and Remote Sensing Letters
 - KSII Transactions on Internet and Information Systems
