@@ -13,7 +13,8 @@ My research interests are in machine learning, image processing, computer vision
 -----
 
 ### Publications   
-\* denotes co-first authors,  \# denotes corresponding author.  
+\* denotes co-first authors.  
+\# denotes corresponding author.  
 
 #### 👀 2023:
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
