@@ -13,6 +13,9 @@ My research interests are in machine learning, image processing, computer vision
 -----
 
 ### Publications   
+\* denotes co-first authors.  
+\# denotes corresponding author.  
+
 #### 👀 2023:
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
