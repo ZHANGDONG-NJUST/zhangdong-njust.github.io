@@ -18,8 +18,8 @@ My research interests are in machine learning, image processing, computer vision
 
 #### 👀 2023:
 - Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2023.
-- Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 - Zenan Shi, Haipeng Chen, and Dong Zhang\#. Transformer-Auxiliary Neural Networks for Image Manipulation Localization by Operator Inductions. *IEEE Transactions on Circuits and Systems for Video Technology*, 2023.
+- Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
 
