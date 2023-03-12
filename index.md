@@ -17,12 +17,12 @@ My research interests are in machine learning, image processing, computer vision
 \# denotes corresponding author.  
 
 #### 👀 2023:
-- Dong Zhang, Liyan Zhang, and Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2023.
-- Zenan Shi, Haipeng Chen, and Dong Zhang\#. Transformer-Auxiliary Neural Networks for Image Manipulation Localization by Operator Inductions. *IEEE Transactions on Circuits and Systems for Video Technology*, 2023.
+- Dong Zhang, Liyan Zhang, Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences*, 2023.
+- Zenan Shi, Haipeng Chen, Dong Zhang\#. Transformer-Auxiliary Neural Networks for Image Manipulation Localization by Operator Inductions. *IEEE Transactions on Circuits and Systems for Video Technology*, 2023.
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
 - Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 - Dong Liang, Dong Zhang, Qiong Wang, Zongqi Wei, Liyan Zhang. CrossNet: Cross-Scene Background Subtraction Network via 3D Optical Flow. *IEEE Transactions on Multimedia*, 2023.
-- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
+- Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
 
 #### 👀 2022:
 - Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions. *arXiv*, 2022.
