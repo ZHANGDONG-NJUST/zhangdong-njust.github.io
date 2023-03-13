@@ -96,7 +96,7 @@ My research interests are in machine learning, image processing, computer vision
 - Best Paper Award Runner-Up, 2015
 
 ### Hobbies
-- [Photography](https://tuchong.com/1621052/)
+- [My photography on 图虫](https://tuchong.com/1621052/)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VCuiT2AoelcnrTgocqBahdhdk2vKp9YQHgaAQgTW5QA&cl=ffffff&w=a"></script>
 
