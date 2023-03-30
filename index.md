@@ -22,6 +22,7 @@ My research interests are in machine learning, image processing, computer vision
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
 - Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 - Dong Liang\*, Dong Zhang\*, Qiong Wang, Zongqi Wei, Liyan Zhang. CrossNet: Cross-Scene Background Subtraction Network via 3D Optical Flow. *IEEE Transactions on Multimedia*, 2023.
+- Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, and Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *IEEE Geoscience and Remote Sensing Letters*, 2022.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
 - Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 
@@ -33,7 +34,6 @@ My research interests are in machine learning, image processing, computer vision
 - Yangjun Mao, Long Chen, Zhihong Jiang, Dong Zhang, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Zongqi Wei\*, Dong Liang\*, Dong Zhang\*, and Liyan Zhang, et al. Learning Calibrated-Guidance for Object Detection in Aerial Images. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 - Yu Quan, Dong Zhang, Liyan Zhang, and Jinhui Tang. Centralized Feature Pyramid for Object Detection. *arXiv*, 2022.
-- Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, and Qiaolin Ye. Enhanced Neck Feature Representation for Object Detection in Aerial Images. *arXiv*, 2022.
 
 #### 👀 2021:
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. *International Conference on Computer Vision (ICCV)*, 2021.
