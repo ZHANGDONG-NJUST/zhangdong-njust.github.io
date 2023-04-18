@@ -22,6 +22,7 @@ My research interests are in machine learning, image processing, computer vision
 - Yi Lin\*, Dong Zhang\*, Xiao Fang, Yufan Chen, Kwang-Ting Cheng, and Hao Chen. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation. *Information Processing in Medical Imaging (IPMI)*, 2023. 
 - Dong Liang\*, Dong Zhang\*, Qiong Wang, Zongqi Wei, Liyan Zhang. CrossNet: Cross-Scene Background Subtraction Network via 3D Optical Flow. *IEEE Transactions on Multimedia*, 2023.
 - Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
+- Chunyan Wang, Dong Zhang, Liyan Zhang, and Jinhui Tang. Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation. *IEEE Transactions on Neural Networks and Learning Systems*, 2023.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023. 
 - Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 - Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
