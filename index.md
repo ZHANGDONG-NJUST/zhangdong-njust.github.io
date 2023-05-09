@@ -31,7 +31,7 @@ My research interests are in machine learning, image processing, computer vision
 - Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
 
 #### 👀 2022:
-- Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions. *arXiv*, 2022.
+- Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions. *arXiv*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
 - Dong Zhang, Chengting Zuo, Qianhao Wu, Liyong Fu, and Xinguang Xiang. Unabridged Adjacent Modulation for Clothing Parsing. *Pattern Recognition*, 2022.
 - Zenan Shi, Haipeng Chen, Dong Zhang, and Xuanjing Shen. Pretraining-Driven Multimodal Boundary Aware Vision Transformer. *Journal of Software (in Chinese)*, 2022.
