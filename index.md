@@ -42,13 +42,11 @@ My research interests are in machine learning, image processing, computer vision
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Self-Regulation for Semantic Segmentation. *International Conference on Computer Vision (ICCV)*, 2021.
 - Chengcheng Yuan, Hao Tang, Dong Zhang, Xinguang Xiang and Zechao Li. Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition. *International Joint Conference on Artificial Intelligence (IJCAI Workshop <font color=red>Oral, Best Paper Award</font>)*, 2021.
 
-#### 👀 2020:
+#### 👀 2020 and before:
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, and Qianru Sun. Causal Intervention for Weakly-Supervised Semantic Segmentation. *Conference on Neural Information Processing Systems (NeurIPS <font color=red>oral</font>)*, 2020.
 - Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. Feature Pyramid Transformer. *European Conference on Computer Vision (ECCV)*, 2020.
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, Dong Zhang, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. *Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>)*, 2020. 
 - Liyong Fu\*, Dong Zhang\*, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. *IEEE Transactions on Geoscience and Remote Sensing*, 2020.
-
-#### 👀 2019 and before:
 - Dong Zhang, Nan Li, Qiaolin Ye.Positional Context Aggregation Network for Remote Sensing Scene Classification. *IEEE Geoscience and Remote Sensing Letters*, 2019.
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. *Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>)*, 2019. 
 - Dong Zhang, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. *IEEE Transactions on Cybernetics*, 2018.
