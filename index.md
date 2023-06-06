@@ -90,6 +90,7 @@ My primary research interests have been in Machine Learning, Computer Vision, an
 - Weakly-Supervised Semantic Segmentation, [Damo Academy](https://t.bilibili.com/464398595921845696?tab=2), 2020
 
 ### Honors and Awards
+- Outstanding Doctoral Dissertation Award at NJUST, 2023 
 - Best Paper Award, 2021
 - Scholarship from CSC, 2018
 - National Scholarships, 2016
