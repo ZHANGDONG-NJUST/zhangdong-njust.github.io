@@ -50,9 +50,6 @@ My primary research interests have been in Machine Learning, Computer Vision, an
 - Dong Zhang, Nan Li, Qiaolin Ye.Positional Context Aggregation Network for Remote Sensing Scene Classification. *IEEE Geoscience and Remote Sensing Letters*, 2019.
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. *Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>)*, 2019. 
 - Dong Zhang, Yunlian Sun, Qiaolin Ye, Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. *IEEE Transactions on Cybernetics*, 2018.
-- Dong Zhang, Jinhui Tang, and Zechao Li. Matrix Entropy Driven Maximum Margin Feature Learning. *Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2018.
-- Dong Zhang, Liyan Zhang, Qiaolin Ye, et al. Robust Learning-based Prediction for Timber-volume of Living Trees. *Computers and Electronics in Agriculture*, 2017.
-- Liyan Zhang, Guo-Jun Qi, Dong Zhang, Jinhui Tang. Latent Dirichlet Truth Discovery: Separating Trustworthy and Untrustworthy Components in Data Sources. *IEEE Access*, 2017. 
 
 ### Services
 #### 🌻 Journal Reviewers:
@@ -64,6 +61,7 @@ My primary research interests have been in Machine Learning, Computer Vision, an
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Circuits and Systems for Video Technolog
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Access
 - Neurocomputing 
 - Neural Networks
