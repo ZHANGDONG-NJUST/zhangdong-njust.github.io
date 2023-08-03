@@ -26,10 +26,11 @@ My primary research interests have been in Machine Learning, Computer Vision, an
 - Yu Quan, Dong Zhang, Liyan Zhang, and Jinhui Tang. Centralized Feature Pyramid for Object Detection. *IEEE Transactions on Image Processing*, 2023.. 
 - Yuchen Shen, Dong Zhang, Zhihao Song, Xuesong Jiang, Qiaolin Ye. Learning to Reduce Information Bottleneck for Object Detection in Aerial Images. *IEEE Geoscience and Remote Sensing Letters*, 2023. 
 - Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
-- Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging*, 2023
-- Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
+- Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 - Yuchen Shen, Dong Zhang, Yuhui Zheng, Zechao Li, Liyong Fu, Qiaolin Ye. Training-Free Instance Segmentation from Semantic Image Segmentation Masks. *arXiv*, 2023.
+- Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
+
 
 #### 👀 2022:
 - Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions. *arXiv*, 2022.
