@@ -30,7 +30,6 @@ My primary research interests are in machine learning, computer vision, and medi
 - Yuchen Shen, Dong Zhang, Yuhui Zheng, Zechao Li, Liyong Fu, Qiaolin Ye. Training-Free Instance Segmentation from Semantic Image Segmentation Masks. *arXiv*, 2023.
 - Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
 
-
 #### 👀 2022:
 - Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions. *arXiv*, 2022.
 - Dong Zhang, Jinhui Tang, and Kwang-Ting Cheng. Graph Reasoning Transformer for Image Parsing. *ACM International Conference on Multimedia (ACM MM)*, 2022.
@@ -89,10 +88,5 @@ My primary research interests are in machine learning, computer vision, and medi
 - National Scholarships, 2016
 - Academic Scholarship at NJFU and NJUST, 2015-2017
 - Best Paper Award Runner-Up, 2015
-
-### Hobbies
-- [My photography on 图虫](https://tuchong.com/1621052/)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VCuiT2AoelcnrTgocqBahdhdk2vKp9YQHgaAQgTW5QA&cl=ffffff&w=a"></script>
 
 -----
