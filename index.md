@@ -29,6 +29,7 @@ My primary research interests are in machine learning, computer vision, and medi
 - Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 - Yuchen Shen, Dong Zhang, Yuhui Zheng, Zechao Li, Liyong Fu, Qiaolin Ye. Training-Free Instance Segmentation from Semantic Image Segmentation Masks. *arXiv*, 2023.
 - Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
+- Chunyan Wang, Dong Zhang\#, Rui Yan. Boosting Weakly-Supervised Image Segmentation via Representation, Transform, and Compensator. *arXiv*, 2023.
 
 #### 👀 2022:
 - Dong Zhang, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, Kwang Ting Cheng. Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions. *arXiv*, 2022.
