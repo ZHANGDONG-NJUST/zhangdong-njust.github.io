@@ -17,6 +17,7 @@ My primary research interests are in machine learning, computer vision, and medi
 \# denotes corresponding author.  
 
 #### 👀 2023:
+- Dong Zhang, Yi Lin, Jinhui Tang, and Kwang-Ting Cheng. CAE-GReaT: Convolutional-Auxiliary Efficient Graph Reasoning Transformer for Dense Image Predictions. *International Journal of Computer Vision (IJCV)*, 2023.
 - Dong Zhang, Liyan Zhang, Jinhui Tang. Augmented FCN: Rethinking Context Modeling for Semantic Segmentation. *SCIENCE CHINA Information Sciences (SCIS)*, 2023.
 - Zenan Shi, Haipeng Chen, Dong Zhang\#. Transformer-Auxiliary Neural Networks for Image Manipulation Localization by Operator Inductions. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2023.
 - Zenan Shi, Haipeng Chen, Long Chen, Dong Zhang\#. Discrepancy-Guided Reconstruction Learning for Image Forgery Detection. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2023.
