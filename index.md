@@ -2,10 +2,9 @@
 layout: default
 ---
 ### About Me
-
 <p align="justify">
-Now, I am a postdoctoral research scientist at 
-<a href="http://vsdl.ust.hk/people.html">Vision and System Design Lab (VSDL)</a>, The Hong Kong University of Science and Technology working with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting CHENG</a>. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology under the supervision of <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. During Sep. 2018 to Sep. 2020, I was supported by China Scholarship Council as a joint Ph.D. student at MReaL of Nanyang Technological University under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun. </p>
+I am now a Research Assistant Professor at the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), where I work closely with <a href="https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng">Prof. Kwang-Ting (Tim) Cheng</a>. Prior to this, I was a postdoctoral research scientist at the Department of Computer Science and Engineering. Before joining HKUST, I earned my Ph.D. degree in Computer Science and Technology from Nanjing University of Science and Technology, where I was supervised by <a href="http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vXtXlpkb!DG57dx!7t4N7w==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=">Prof. Jinhui Tang</a>. From September 2018 to September 2020, I was supported by the China Scholarship Council as a joint Ph.D. student at MReaL of Nanyang Technological University, under the supervision of Prof. Hanwang Zhang and Prof. Qianru Sun.
+</p>
 
 <p align="justify">
 My primary research interests are in machine learning, computer vision, and medical image analysis, with a focus on fundamental research tasks such as image classification, object detection, and semantic segmentation. Looking towards the future, my research interests will be centered on efficient deep learning algorithm design for edge devices perception, with an emphasis on developing integrated visual recognition systems tailored for downstream applications such as healthcare and wellness analysis. </p>
