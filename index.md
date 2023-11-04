@@ -9,6 +9,8 @@ I am now a Research Assistant Professor at the Department of Electronic and Comp
 <p align="justify">
 My primary research interests are in machine learning, computer vision, and medical image analysis, with a focus on fundamental research tasks such as image classification, object detection, and semantic segmentation. Looking towards the future, my research interests will be centered on efficient deep learning algorithm design for edge devices perception, with an emphasis on developing integrated visual recognition systems tailored for downstream applications such as healthcare and wellness analysis. </p>
 
+<p align="justify">
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am happy to give talks on my research in related seminars. Please feel free to contact me if you are interested. Thanks you.</strong></strong></p>
 -----
 
 ### Publications   
