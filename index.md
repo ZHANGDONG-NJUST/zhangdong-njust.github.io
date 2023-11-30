@@ -77,8 +77,8 @@ My primary research interests are in machine learning, computer vision, and medi
 - Conference on Neural Information Processing Systems, 2021-2023
 - International Conference on Learning Representations, 2022-2024
 
-#### 🌻 Invited Talks:
-Guest Editor, Special Issue "Deep Learning in Computer Vision", *Journal of Imaging*
+#### 🌻 Guest Editor:
+- Special Issue "Deep Learning in Computer Vision", *Journal of Imaging*
 
 #### 🌻 Invited Talks:
 - Graph-Based Vision Transformer, [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/), 2023
