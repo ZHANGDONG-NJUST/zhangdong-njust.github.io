@@ -48,6 +48,9 @@ My primary research interests are in machine learning, computer vision, and medi
 - Wenxuan Zhang\*, Dong Zhang\*, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. *Asian Conference on Machine Learning (ACML <font color=red>spotlight</font>)*, 2019. 
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, Dong Zhang, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. *Association for the Advancement of Artificial Intelligence (AAAI <font color=red>oral</font>)*, 2020. 
 
+### Fundings
+- Vision-Based and Physical-Informed Human Pose Analysis for Complex Sports (Co-PI), HKUST internal project, one million
+
 ### Services
 #### 🌻 Journal Reviewers:
 - IEEE Transactions on Multimedia
