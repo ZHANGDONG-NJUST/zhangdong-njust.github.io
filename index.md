@@ -9,7 +9,7 @@ I am now a Research Assistant Professor at the Department of Electronic and Comp
 <p align="justify">
 My primary research interests are in machine learning, computer vision, and medical image analysis, with a focus on fundamental research tasks such as image classification, object detection, semantic segmentation, and pose estimation. In addition, my research interests are also centered on efficient network architecture design for edge devices perception, with an emphasis on developing integrated visual recognition systems tailored for applications such as healthcare and wellness analysis.</p>
 
-<p align="justify">I currently do not have any funds available to support PhD/MPhil/RA student applications. I apologize for any inconvenience this may cause and suggest that you consider other options. Thanks.</p>
+<p align="justify">I currently do not have any funds available to support PhD/MPhil/RA student applications at HKUST. I apologize for any inconvenience this may cause and suggest that you consider other options. Thanks!</p>
 
 <p align="justify">
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I would like to express my heartfelt thanks to my beloved cat, ERLING (二零 in chinese), who was by my side throughout my doctoral journey. Sadly, ERLING passed away in a car accident in Dec. 2023. Although she was just a cat, her presence brought me comfort during many anxious and sleepless nights. I am forever grateful for her companionship and will always cherish the memories we shared.</strong></strong></p>
