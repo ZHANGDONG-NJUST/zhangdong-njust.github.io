@@ -21,6 +21,7 @@ My primary research interests are in machine learning, computer vision, and medi
 \# denotes corresponding author.  
 
 #### 👀 2024:
+- Dong Zhang, Pingcheng Dong, Xinting Hu, Long Chen, and Kwang-Ting Cheng. Boundary and Relation Distillation for Semantic Segmentation. *arXiv*, 2024.
 - Yi Lin, Zeyu Wang, Dong Zhang, Kwang-Ting Cheng, and Hao Chen. BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels. *IEEE Transactions on Medical Imaging (TMI)*, 2024.
 
 #### 👀 2023:
