@@ -22,9 +22,11 @@ My primary research interests are in machine learning, computer vision, and medi
 
 #### 👀 2024:
 - Dong Zhang, Pingcheng Dong, Xinting Hu, Long Chen, and Kwang-Ting Cheng. BREAD: Boundary and Relation Distillation for Semantic Segmentation. *arXiv*, 2024.
+- Fengyun Wang, Qianru Sun, Dong Zhang, and Jinhui Tang. Unleashing Network Potentials for Semantic Scene Completion. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024.
 - Yi Lin, Zeyu Wang, Dong Zhang, Kwang-Ting Cheng, and Hao Chen. BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels. *IEEE Transactions on Medical Imaging (TMI)*, 2024.
 - Qianhao Wu, Jiaxin Qi, Dong Zhang, Hanwang Zhang, Jinhui Tang. Fine-Tuning for Few-shot Image Classification by Multimodal Prototype Regularization. *IEEE Transactions on Multimedia (TMM)*, 2024.
-- Pingcheng Dong, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An, and Kwang-Ting Cheng. Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers. *ACM/IEEE Design Automation Conference (DAC)*, 2024. 
+- Pingcheng Dong, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An, and Kwang-Ting Cheng. Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers. *ACM/IEEE Design Automation Conference (DAC <font color=red>oral</font>)*, 2024. 
+- Pingcheng Dong, Yonghao Tan, Dong Zhang, Yongkun Wu, Xijie Huang, Shih-Yang Liu, Yu Liu, Xuejiao Liu, Peng Luo, Luhong Liang, Fengwei An, and Kwang-Ting Cheng. Additive Partial Sum Quantization. *ACM/IEEE Design Automation Conference (DAC)*, 2024. 
 
 #### 👀 2023:
 - Dong Zhang, Yi Lin, Jinhui Tang, and Kwang-Ting Cheng. CAE-GReaT: Convolutional-Auxiliary Efficient Graph Reasoning Transformer for Dense Image Predictions. *International Journal of Computer Vision (IJCV)*, 2023.
