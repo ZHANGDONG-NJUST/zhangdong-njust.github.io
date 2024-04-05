@@ -74,10 +74,7 @@ My primary research interests are in machine learning, computer vision, and medi
 - IEEE Transactions on Circuits and Systems for Video Technolog
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - Neurocomputing, Neural Networks, Pattern Recognition
-- Journal of Applied Remote Sensing
-- Computers and Electronics in Agriculture
-- IEEE Geoscience and Remote Sensing Letters
-- KSII Transactions on Internet and Information Systems
+
 
 #### 🌻 Conference Reviewers: 
 - European Conference on Computer Vision, 2022-2024
