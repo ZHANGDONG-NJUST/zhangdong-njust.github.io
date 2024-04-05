@@ -62,7 +62,7 @@ My primary research interests are in machine learning, computer vision, and medi
 ### Fundings
 - Vision-Based and Physical-Informed Human Pose Analysis for Complex Sports, Co-PI, HKUST Internal Project, 1 Million
 
-### Services
+### Professional Services
 #### 🌻 Journal Reviewers:
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Cybernetics
@@ -80,11 +80,10 @@ My primary research interests are in machine learning, computer vision, and medi
 - KSII Transactions on Internet and Information Systems
 
 #### 🌻 Conference Reviewers: 
-- European Conference on Computer Vision, 2021-2022
-- ACM International Conference on Multimedia, 2021-2023
+- European Conference on Computer Vision, 2022-2024
+- ACM International Conference on Multimedia, 2021-2024
 - International Conference on Machine Learning, 2021-2023
 - Association for the Advancement of Artificial Intelligence, 2022-2024
-- ACM International Conference on Multimedia in Asia, 2021-2023
 - Conference on Neural Information Processing Systems, 2021-2023
 - International Conference on Learning Representations, 2022-2024
 
