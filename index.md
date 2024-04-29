@@ -9,7 +9,7 @@ I am now a Research Assistant Professor at the Department of Electronic and Comp
 <p align="justify">
 My primary research interests are in machine learning, computer vision, and medical image analysis, with a focus on fundamental research tasks such as image classification, object detection, semantic segmentation, and pose estimation. In addition, my research interests are also centered on efficient network architecture design for edge devices perception, with an emphasis on developing integrated visual recognition systems tailored for applications such as healthcare and wellness analysis.</p>
 
-<p align="justify">I am looking for a highly self-motivated RA and postdocs. If you are interested, please email me and we can discuss further. Thanks!</p>
+<p align="justify">I am looking for highly self-motivated RAs and postdocs. If you are interested, please email me and we can discuss further. Thanks!</p>
 ----- 
 
 <p align="justify">
