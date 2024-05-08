@@ -2,23 +2,13 @@
 layout: default
 ---
 
-{% include section.html background=page.image %}
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
 
-<h1 class="center">{{ page.title }}</h1>
+<p class="view">by {{ page.author | default: site.author }}</p>
 
-{%
-  include post-info.html
-  author=page.author
-  member=page.member
-  published=page.date
-  updated=page.last_modified_at
-  tags=page.tags
-%}
+{{content}}
 
-{% include section.html %}
-
-{{ content }}
-
-{% include section.html %}
-
-{% include post-nav.html post=page %}
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
