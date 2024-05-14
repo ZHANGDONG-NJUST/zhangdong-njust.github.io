@@ -22,6 +22,7 @@ My primary research interests are in machine learning, computer vision, and medi
 
 #### 👀 2024:
 - Dong Zhang, Pingcheng Dong, Xinting Hu, Long Chen, and Kwang-Ting Cheng. BREAD: Boundary and Relation Distillation for Semantic Segmentation. *arXiv*, 2024.
+- Xiao Fang, Yi Lin, Dong Zhang, Kwang-Ting Cheng, and Hao Chen. Aligning Medical Images with General Knowledge from Large Language Models. *Medical Image Computing and Computer Assisted Intervention (MICCAI <font color=red>Early Accept</font>)*, 2024. 
 - Fengyun Wang, Qianru Sun, Dong Zhang, and Jinhui Tang. Unleashing Network Potentials for Semantic Scene Completion. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024.
 - Yi Lin, Zeyu Wang, Dong Zhang, Kwang-Ting Cheng, and Hao Chen. BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels. *IEEE Transactions on Medical Imaging (TMI)*, 2024.
 - Qianhao Wu, Jiaxin Qi, Dong Zhang, Hanwang Zhang, Jinhui Tang. Fine-Tuning for Few-shot Image Classification by Multimodal Prototype Regularization. *IEEE Transactions on Multimedia (TMM)*, 2024.
