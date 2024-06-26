@@ -42,7 +42,6 @@ My primary research interests are in machine learning, computer vision, and medi
 - Yu Quan, Dong Zhang, Liyan Zhang, and Jinhui Tang. Centralized Feature Pyramid for Object Detection. *IEEE Transactions on Image Processing (TIP)*, 2023.. 
 - Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun. Semantic Scene Completion with Cleaner Self. *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 - Jeffry Wicaksana, Zengqiang Yan, Dong Zhang, Xijie Huang, Huimin Wu, Xin Yang, and Kwang-Ting Cheng. FedMix: Mixed Supervised Federated Learning for Medical Image Segmentation. *IEEE Transactions on Medical Imaging (TMI)*, 2023.
-- Chunyan Wang, Dong Zhang\#, and Rui Yan. Boosting Weakly-Supervised Image Segmentation via Representation, Transform, and Compensator. *arXiv*, 2023.
 - Shuhan Li, Dong Zhang, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, and Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. *arXiv*, 2023.
 - Yuchen Shen, Dong Zhang, Yuhui Zheng, Zechao Li, Liyong Fu, and Qiaolin Ye. Training-Free Instance Segmentation from Semantic Image Segmentation Masks. *arXiv*, 2023.
 - Yi Lin, Xiao Fang, Dong Zhang, Kwang-Ting Cheng, and Hao Chen. A Permutable Hybrid Network for Volumetric Medical Image Segmentation. *arXiv*, 2023.
