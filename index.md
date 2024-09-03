@@ -12,7 +12,7 @@ My primary research interests are in machine learning, computer vision, and medi
 ----- 
 
 <p align="justify">
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I would like to express my heartfelt thanks to my beloved cat, ERLING (二零 in chinese), who was by my side throughout my doctoral journey. Sadly, ERLING passed away in a car accident in Dec. 2023. Although she was just a cat, her presence brought me comfort during many anxious and sleepless nights. I am forever grateful for her companionship and will always cherish the memories we shared.</strong></strong></p>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I would like to express heartfelt thanks to my beloved cat, ERLING (二零 in chinese), who was by my side throughout my doctoral journey. Sadly, ERLING passed away in a car accident in Dec. 2023. Although she was just a cat, her presence brought me comfort during many anxious and sleepless nights. I am forever grateful for her companionship and will always cherish the memories we shared.</strong></strong></p>
 -----
 
 ### Publications   
