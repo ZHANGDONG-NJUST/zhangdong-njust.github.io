@@ -1,54 +1,37 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
+
   <body>
-    <div class="wrapper">
-      <header>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p align="center" class="view"><font color="black">Dong Zhang<br>Research Assistant Professor<br>Vision and System Disign Lab<br>dongz AT ust DOT hk</font></p>
-        {% endif %}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
     
-        {% if site.github.is_user_page %}
-        <p class="view"><font color="black">Faculty Profile</font>&nbsp <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=dong-zhang-dongz">Dong ZHANG</a><br>
-          <font color="black">OCRiD</font>&nbsp <a href="https://orcid.org/0000-0002-4543-2179">0000-0002-4543-2179</a><br>
-          <font color="black">Google Scholar</font>&nbsp <a href="https://scholar.google.com/citations?user=zxVy7sIAAAAJ&hl=zh-CN">zxVy7sIAAAAJ&hl</a><br>
-          <font color="black">知乎</font>&nbsp <a href="https://www.zhihu.com/people/zhang-dong-85">ERLING的铲屎官</a><br>
-          <font color="black">Photography Works</font>&nbsp <a href="https://tuchong.com/1621052">ShangJia</a>
-        </p>
-        {% endif %}
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
+
+    {% include scripts.html %}
+
+    <footer style="text-align: center;">
+        <hr>
+        Copyright © 2024 Dong Zhang. All Rights Reserved.</footer>
+
   </body>
 </html>
