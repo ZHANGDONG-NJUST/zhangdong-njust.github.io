@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dong Zhang"
-description              : "Research Assistant Professor, Vision and System Design Lab"
+description              : "Research Assistant Professor, HKUST"
 repository               : "sqsssq/sqsssq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-4543-2179" # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
