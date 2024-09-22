@@ -70,7 +70,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM</div><img src='images/publication/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Graph Reasoning Transformer for Image Parsing.**
