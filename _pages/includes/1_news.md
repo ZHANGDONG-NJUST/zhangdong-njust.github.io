@@ -52,9 +52,17 @@
             <span class="news-date">[2023/11]</span>
             <span class="news-content">I completed my postdoctoral career in the Department of CSE at HKUST!</span>
         </li>
+       <li class="news-item">
+            <span class="news-date">[2023/10]</span>
+            <span class="news-content">We secured a funding grant of 1 Million to support research on human pose analysis!</span>
+        </li>
         <li class="news-item">
             <span class="news-date">[2023/07]</span>
             <span class="news-content">One paper about <span style="font-style: italic;">object detection</span> is accepted by TIP!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/06]</span>
+            <span class="news-content">We secured a funding grant of 1+ Million to support research on knowledge distillation!</span>
         </li>
         <li class="news-item">
             <span class="news-date">[2023/04]</span>
