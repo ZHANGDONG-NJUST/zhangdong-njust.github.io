@@ -26,7 +26,7 @@
         </li>
         <li class="news-item">
             <span class="news-date">[2024/06]</span>
-            <span class="news-content">One paper about <span style="font-style: italic;">weakly-supervised image segmentation</span> is accepted by T-CSVT!</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">weakly-supervised image segmentation</span> is accepted by TCSVT!</span>
         </li>
         <li class="news-item">
             <span class="news-date">[2024/05]</span>
@@ -34,7 +34,7 @@
         </li>
         <li class="news-item">
             <span class="news-date">[2024/03]</span>
-            <span class="news-content">One paper about <span style="font-style: italic;">few-shot image classification</span> is accepted by T-MM!</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">few-shot image classification</span> is accepted by TMM!</span>
         </li>
         <li class="news-item">
             <span class="news-date">[2024/02]</span>
@@ -51,6 +51,14 @@
         <li class="news-item">
             <span class="news-date">[2023/11]</span>
             <span class="news-content">I completed my postdoctoral career in the Department of CSE at HKUST!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/07]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">object detection</span> is accepted by TIP!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/04]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">weakly-supervised image segmentation</span> is accepted by TNNLS!</span>
         </li>
     </ul>
 </div>
