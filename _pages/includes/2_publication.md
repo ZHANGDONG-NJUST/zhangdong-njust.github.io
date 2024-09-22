@@ -144,14 +144,14 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYBE</div><img src='images/publication/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='images/publication/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Recursive Discriminative Subspace Learning with L1-norm Distance Constraint**
 
 **Dong Zhang**, Yunlian Sun, Qiaolin Ye, and Jinhui Tang.
 
-*IEEE Transactions on Cybernetics (TCYBE)*, 2018.
+*IEEE Transactions on Cybernetics (TCYB)*, 2018.
 
 <!-- [[Paper]()] [<a href="">Link</a>] -->
 
