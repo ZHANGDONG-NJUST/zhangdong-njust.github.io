@@ -10,7 +10,7 @@
         </li> -->
         <li class="news-item">
             <span class="news-date">[2024/08]</span>
-            <span class="news-content">One paper <span style="font-style: italic;">partially-supervised multi-organ medical image segmentation</span>&nbsp; is accepted by MedIA!</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">partially-supervised multi-organ medical image segmentation</span> is accepted by MedIA!</span>
         </li>
     </ul>
 </div>
