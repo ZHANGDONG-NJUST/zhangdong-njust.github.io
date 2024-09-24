@@ -73,6 +73,14 @@
             <span class="news-content">One paper about <span style="font-style: italic;">medical image segmentation</span> is accepted by IPMI!</span>
         </li>
         <li class="news-item">
+            <span class="news-date">[2022/07]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">semantic image segmentation</span> is accepted by ACM MM!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2022/01]</span>
+            <span class="news-content">I have arrived in Hong Kong and completed one week of home quarantine!</span>
+        </li>
+        <li class="news-item">
             <span class="news-date">[2022/01]</span>
             <span class="news-content">I will be joining the Department of CSE at HKUST as a postdoctoral fellow!</span>
         </li>
