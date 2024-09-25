@@ -10,7 +10,7 @@
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/10.png' alt="sym" width=".6"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BREAD: Boundary and Relation Distillation for Semantic Segmentation**
