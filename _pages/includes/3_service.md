@@ -12,12 +12,14 @@
   - Neurocomputing, Neural Networks, Pattern Recognition
 
 - Conference Reviewers:
-  - European Conference on Computer Vision, 2022-2024
-  - ACM International Conference on Multimedia, 2021-2024
-  - International Conference on Machine Learning, 2021-2023
-  - Association for the Advancement of Artificial Intelligence, 2022-2024
-  - Conference on Neural Information Processing Systems, 2021-2023
-  - International Conference on Learning Representations, 2022-2024
+  - European Conference on Computer Vision (ECCV)
+  - ACM International Conference on Multimedia (ACM MM)
+  - International Conference on Machine Learning (ICML)
+  - International Conference on Learning Representations (ICLR)
+  - Conference on Neural Information Processing Systems (NeurIPS)
+  - The International Conference on Computer Vision (ICCV) 
+  - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+
 
 
 - Guest Editor:
