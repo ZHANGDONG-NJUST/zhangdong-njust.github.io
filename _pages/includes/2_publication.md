@@ -187,4 +187,5 @@
 - Yangjun Mao, Long Chen, Zhihong Jiang, **Dong Zhang**, Zhimeng Zhang, Jian Shao, and Jun Xiao. Rethinking the Reference-based Distinctive Image Captioning. ACM International Conference on Multimedia (ACM MM), 2022.
 ## 2021 and before:
 - Wenxuan Zhang*, **Dong Zhang***, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. Asian Conference on Machine Learning (ACML <font color="red">spotlight</font>), 2019.
+- Liyong Fu*, **Dong Zhang***, and Qiaolin Ye. Recurrent Thrifty Attention Network for Remote Sensing Scene Recognition. IEEE Transactions on Geoscience and Remote Sensing, 2020. 
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, and **Dong Zhang**, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. Association for the Advancement of Artificial Intelligence (AAAI <font color="red">oral</font>), 2020.
