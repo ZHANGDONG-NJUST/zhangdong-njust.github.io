@@ -4,6 +4,7 @@
   - IEEE Transactions on Cybernetics
   - IEEE Transactions on Medical Imaging
   - IEEE Transactions on Image Processing
+  - IEEE Transactions on Artificial Intelligence
   - IEEE Transactions on Geoscience and Remote Sensing
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
