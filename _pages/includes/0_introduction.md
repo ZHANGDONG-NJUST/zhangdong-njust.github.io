@@ -21,6 +21,8 @@ I am now a Research Assistant Professor at the Department of Electronic and Comp
 My primary research interests are in machine learning, computer vision, and medical image analysis, with a focus on fundamental research tasks such as image classification, object detection, semantic segmentation, and pose estimation. In addition, my research interests are also centered on efficient network architecture design for edge devices perception, with an emphasis on developing integrated visual recognition systems tailored for applications such as healthcare and wellness analysis.
 
 <!-- <a href='https://scholar.google.com/citations?user=K7LwtK0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsqsssq%2Fsqsssq.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+---
+<p style="color:red; font-weight: bold;">We are seeking self-motivated Research Assistants and Postdoctoral Researchers who are interested in working on large-scale foundational models and medical image analysis. We have a highly professional team, abundant computational resources, and offer very competitive salaries. If you are interested, please email me. Thanks!</p>
 
 ---
 
