@@ -22,7 +22,7 @@ My primary research interests are in machine learning, computer vision, and medi
 
 <!-- <a href='https://scholar.google.com/citations?user=K7LwtK0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsqsssq%2Fsqsssq.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 ---
-<p style="color:red; font-weight: bold;">We are seeking self-motivated Research Assistants and Postdoctoral Researchers who are interested in working on large-scale multi-modal foundation models and medical image analysis. We have a highly professional team, abundant computational resources, and offer very competitive salaries. If you are interested, please email me. Thanks!</p>
+<p style="text-align:justify"; style="color:red; font-weight: bold;">We are seeking self-motivated Research Assistants and Postdoctoral Researchers who are interested in working on large-scale multi-modal foundation models and medical image analysis. We have a highly professional team, abundant computational resources, and offer very competitive salaries. If you are interested, please email me. Thanks!</p>
 
 ---
 
