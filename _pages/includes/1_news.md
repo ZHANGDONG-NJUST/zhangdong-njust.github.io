@@ -9,10 +9,6 @@
             <span class="news-content"></span>
         </li> -->
         <li class="news-item">
-            <span class="news-date">[2024/09]</span>
-            <span class="news-content">We secured a funding grant of 4+ Million to support research on healthcare LLMs!</span>
-        </li>
-        <li class="news-item">
             <span class="news-date">[2024/08]</span>
             <span class="news-content">One paper about <span style="font-style: italic;">partially-supervised multi-organ medical image segmentation</span> is accepted by MedIA!</span>
         </li>
