@@ -158,7 +158,8 @@
 </div>
 </div>
 
-
+## 2025:
+- Pingcheng Dong, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, **Dong Zhang**, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng. A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic Segmentation. IEEE International Solid-State Circuits Conference (ISSCC), 2025.
 ## 2024:
 - Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis, 2024.
 - Shuhan Li, **Dong Zhang**, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Weihua Yang, Yanchun Zhang, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. Medical Image Analysis, 2024.
@@ -171,7 +172,6 @@
 - Qianhao Wu, Jiaxin Qi, **Dong Zhang**, Hanwang Zhang, Jinhui Tang. Fine-Tuning for Few-shot Image Classification by Multimodal Prototype Regularization. IEEE Transactions on Multimedia (TMM), 2024.
 - Pingcheng Dong, Yonghao Tan, **Dong Zhang**, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An, and Kwang-Ting Cheng. Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers. ACM/IEEE Design Automation Conference (DAC <font color="red">Oral</font>), 2024.
 - Pingcheng Dong, Yonghao Tan, **Dong Zhang**, Yongkun Wu, Xijie Huang, Shih-Yang Liu, Yu Liu, Xuejiao Liu, Peng Luo, Luhong Liang, Fengwei An, and Kwang-Ting Cheng. Additive Partial Sum Quantization. ACM/IEEE Design Automation Conference (DAC), 2024.
-- Pingcheng Dong, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, **Dong Zhang**, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng. A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic Segmentation. IEEE International Solid-State Circuits Conference (ISSCC), 2025.
 ## 2023:
 - Zenan Shi, Haipeng Chen, and **Dong Zhang**#. Transformer-Auxiliary Neural Networks for Image Manipulation Localization by Operator Inductions. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023.
 - Zenan Shi, Haipeng Chen, Long Chen, and **Dong Zhang**#. Discrepancy-Guided Reconstruction Learning for Image Forgery Detection. International Joint Conference on Artificial Intelligence (IJCAI), 2023.
