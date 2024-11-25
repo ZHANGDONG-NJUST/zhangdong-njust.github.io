@@ -5,20 +5,19 @@
   - IEEE Transactions on Medical Imaging
   - IEEE Transactions on Image Processing
   - IEEE Transactions on Artificial Intelligence
-  - IEEE Transactions on Geoscience and Remote Sensing
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Circuits and Systems for Video Technolog
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
-  - Neurocomputing, Neural Networks, Pattern Recognition
 
 - Conference Reviewers:
   - European Conference on Computer Vision (ECCV)
   - ACM International Conference on Multimedia (ACM MM)
   - International Conference on Machine Learning (ICML)
+  - AAAI Conference on Artificial Intelligence (AAAI) 
   - International Conference on Learning Representations (ICLR)
   - Conference on Neural Information Processing Systems (NeurIPS)
-  - The International Conference on Computer Vision (ICCV) 
+  - The IEEE / CVF International Conference on Computer Vision (ICCV) 
   - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 
 
