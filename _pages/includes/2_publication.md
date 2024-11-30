@@ -160,6 +160,7 @@
 
 
 ## 2025:
+- Hao Tang, Zechao Li, **Dong Zhang**, Shengfeng He, and Jinhui Tang. Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis, 2025.
 - Pingcheng Dong, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, **Dong Zhang**, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng. A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic Segmentation. IEEE International Solid-State Circuits Conference (ISSCC), 2025.
 

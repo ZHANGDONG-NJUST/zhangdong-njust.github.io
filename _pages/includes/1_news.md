@@ -9,6 +9,10 @@
             <span class="news-content"></span>
         </li> -->
         <li class="news-item">
+            <span class="news-date">[2024/11]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">salient object detection</span> is accepted by TPAMI!</span>
+        </li>
+        <li class="news-item">
             <span class="news-date">[2024/09]</span>
             <span class="news-content">We secured a funding grant to support research on healthcare LLMs!</span>
         </li>
