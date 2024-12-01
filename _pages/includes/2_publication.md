@@ -160,12 +160,13 @@
 
 
 ## 2025:
-- Hao Tang, Zechao Li, **Dong Zhang**, Shengfeng He, and Jinhui Tang. Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence.
-- Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis, 2025.
+- Hao Tang, Zechao Li, **Dong Zhang**, Shengfeng He, and Jinhui Tang. Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis (MedIA), 2025.
+- Yi Lin, Xiao Fang, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI).
 - Pingcheng Dong, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, **Dong Zhang**, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng. A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic Segmentation. IEEE International Solid-State Circuits Conference (ISSCC), 2025.
 
 ## 2024:
-- Shuhan Li, **Dong Zhang**, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Weihua Yang, Yanchun Zhang, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. Medical Image Analysis, 2024.
+- Shuhan Li, **Dong Zhang**, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Weihua Yang, Yanchun Zhang, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. Medical Image Analysis (MedIA), 2024.
 - Yangjun Mao, Jun Xiao, **Dong Zhang**, Meng Cao, Jian Shao, Yueting Zhuang, and Long Chen. Improving Reference-based Distinctive Image Captioning with Contrastive Rewards. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.
 - Chunyan Wang, **Dong Zhang**#, and Rui Yan. Boosting Weakly-Supervised Image Segmentation via Representation, Transform, and Compensator. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
 - Peng Xing, **Dong Zhang**, Jinhui Tang, and Zechao Li. A Recover-then-Discriminate Framework for Robust Anomaly Detection. SCIENCE CHINA Information Sciences (SCIS), 2024.
