@@ -13,11 +13,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**BREAD: Boundary and Relation Distillation for Semantic Segmentation**
+**Towards Complementary Knowledge Distillation for Efficient Dense Image Prediction**
 
 **Dong Zhang**, Pingcheng Dong, Xinting Hu, Long Chen, and Kwang-Ting Cheng.
 
-*arXiv*, 2024.
+*arXiv*, 2025.
 
 <!-- [[Paper]()] [<a href="">Link</a>] -->
 
