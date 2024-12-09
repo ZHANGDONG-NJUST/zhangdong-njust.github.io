@@ -167,9 +167,9 @@
 
 ## 2024:
 - Shuhan Li, **Dong Zhang**, Xiaomeng Li, Chubin Ou, Lin An, Yanwu Xu, Weihua Yang, Yanchun Zhang, Kwang-Ting Cheng. Vessel-Promoted OCT to OCTA Image Translation by Heuristic Contextual Constraints. Medical Image Analysis (MedIA), 2024.
-- Yangjun Mao, Jun Xiao, **Dong Zhang**, Meng Cao, Jian Shao, Yueting Zhuang, and Long Chen. Improving Reference-based Distinctive Image Captioning with Contrastive Rewards. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.
 - Chunyan Wang, **Dong Zhang**#, and Rui Yan. Boosting Weakly-Supervised Image Segmentation via Representation, Transform, and Compensator. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
 - Peng Xing, **Dong Zhang**, Jinhui Tang, and Zechao Li. A Recover-then-Discriminate Framework for Robust Anomaly Detection. SCIENCE CHINA Information Sciences (SCIS), 2024.
+- Yangjun Mao, Jun Xiao, **Dong Zhang**, Meng Cao, Jian Shao, Yueting Zhuang, and Long Chen. Improving Reference-based Distinctive Image Captioning with Contrastive Rewards. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.
 - Xiao Fang, Yi Lin, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. Aligning Medical Images with General Knowledge from Large Language Models. Medical Image Computing and Computer Assisted Intervention (MICCAI <font color="red">Early Accept, Oral</font>), 2024.
 - Fengyun Wang, Qianru Sun, **Dong Zhang**, and Jinhui Tang. Unleashing Network Potentials for Semantic Scene Completion. The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.
 - Yi Lin, Zeyu Wang, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. BoNuS: Boundary Mining for Nuclei Segmentation with Partial Point Labels. IEEE Transactions on Medical Imaging (TMI), 2024.
