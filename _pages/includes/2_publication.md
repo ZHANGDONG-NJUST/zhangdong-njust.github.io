@@ -17,7 +17,7 @@
 
 **Dong Zhang**, Pingcheng Dong, Xinting Hu, Long Chen, and Kwang-Ting Cheng.
 
-*arXiv*, 2025.
+*arXiv*, 2024.
 
 <!-- [[Paper]()] [<a href="">Link</a>] -->
 
