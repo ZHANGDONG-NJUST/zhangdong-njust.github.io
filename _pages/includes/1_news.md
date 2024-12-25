@@ -9,6 +9,10 @@
             <span class="news-content"></span>
         </li> -->
         <li class="news-item">
+            <span class="news-date">[2024/12]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">semi-supervised medical image segmentation</span> is accepted by IVC!</span>
+        </li>
+        <li class="news-item">
             <span class="news-date">[2024/11]</span>
             <span class="news-content">One paper about <span style="font-style: italic;">salient object detection</span> is accepted by TPAMI!</span>
         </li>
