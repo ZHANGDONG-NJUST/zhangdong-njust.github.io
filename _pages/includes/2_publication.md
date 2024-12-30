@@ -160,9 +160,10 @@
 
 
 ## 2025:
-- Hao Tang, Zechao Li, **Dong Zhang**, Shengfeng He, and Jinhui Tang. Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- Yun Zhu, **Dong Zhang**, Yi Lin, Yifei Feng, Jinhui Tang. Merging Context Clustering with Visual State Space Models for Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
+- Hao Tang, Zechao Li, **Dong Zhang**, Shengfeng He, and Jinhui Tang. Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
 - Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis (MedIA), 2025.
-- Yi Lin, Xiao Fang, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI).
+- Yi Lin, Xiao Fang, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
 - Pingcheng Dong, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, **Dong Zhang**, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng. A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic Segmentation. IEEE International Solid-State Circuits Conference (ISSCC), 2025.
 
 ## 2024:
