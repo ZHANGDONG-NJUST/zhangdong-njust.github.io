@@ -10,7 +10,7 @@
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/gradprom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/publication/gradprom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**
