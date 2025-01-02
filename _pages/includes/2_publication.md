@@ -10,6 +10,20 @@
 
 ## Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/gradprom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**
+
+**Dong Zhang**, and Kwang-Ting Cheng.
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2025.
+
+<!-- [[Paper]()] [<a href="">Link</a>] -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/publication/10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -144,21 +158,6 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='images/publication/1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Recursive Discriminative Subspace Learning with L1-norm Distance Constraint**
-
-**Dong Zhang**, Yunlian Sun, Qiaolin Ye, and Jinhui Tang.
-
-*IEEE Transactions on Cybernetics (TCYB)*, 2018.
-
-<!-- [[Paper]()] [<a href="">Link</a>] -->
-
-</div>
-</div>
-
-
 ## 2025:
 - Yun Zhu, **Dong Zhang**, Yi Lin, Yifei Feng, Jinhui Tang. Merging Context Clustering with Visual State Space Models for Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
 - Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis (MedIA), 2025.
@@ -197,3 +196,4 @@
 - Long Chen, Chujie Lu, Siliang Tang, Jun Xiao, and **Dong Zhang**, et al. Rethinking the Bottom-Up Framework for Query-based Video Localization. Association for the Advancement of Artificial Intelligence (AAAI <font color="red">oral</font>), 2020.
 - Wenxuan Zhang*, **Dong Zhang***, and Xinguang Xiang. Cascaded and Dual: Discrimination Oriented Network for Brain Tumor Classification. Asian Conference on Machine Learning (ACML <font color="red">spotlight</font>), 2019.
 - **Dong Zhang**, Nan Li, and Qiaolin Ye. Positional Context Aggregation Network for Remote Sensing Scene Classification. IEEE Geoscience and Remote Sensing Letters, 2019.
+- **Dong Zhang**, Yunlian Sun, Qiaolin Ye, and Jinhui Tang. Recursive Discriminative Subspace Learning with L1-norm Distance Constraint. IEEE Transactions on Cybernetics (TCYB), 2018.
