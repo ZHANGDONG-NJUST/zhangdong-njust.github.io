@@ -14,7 +14,7 @@
         </li>
         <li class="news-item">
             <span class="news-date">[2024/12]</span>
-            <span class="news-content">One paper about <span style="font-style: italic;">medical image segmentation</span> is accepted by TMI!</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">medical image segmentation with visual state space models</span> is accepted by TMI!</span>
         </li>
         <li class="news-item">
             <span class="news-date">[2024/12]</span>
