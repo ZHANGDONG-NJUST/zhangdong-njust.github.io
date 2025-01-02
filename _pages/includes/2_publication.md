@@ -74,7 +74,7 @@
 **Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions**
 
 
-**Dong Zhang**, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, and Kwang Ting Cheng.
+**Dong Zhang**, Yi Lin, Hao Chen, Zhuotao Tian, Xin Yang, Jinhui Tang, and Kwang-Ting Cheng.
 
 *arXiv*, 2022.
 
