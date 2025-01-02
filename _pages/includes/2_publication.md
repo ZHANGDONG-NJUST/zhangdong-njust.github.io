@@ -159,7 +159,7 @@
 
 
 ## 2025:
-- Yun Zhu, **Dong Zhang**, Yi Lin, Yifei Feng, Jinhui Tang. Merging Context Clustering with Visual State Space Models for Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
+- Yun Zhu, **Dong Zhang**#, Yi Lin, Yifei Feng, Jinhui Tang. Merging Context Clustering with Visual State Space Models for Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
 - Xixi Jiang, **Dong Zhang**, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang. Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation. Medical Image Analysis (MedIA), 2025.
 - Qianhao Wu, Xixi Jiang, **Dong Zhang**#, Yifei Feng, Jinhui Tang. Cross-Set Data Augmentation for Semi-Supervised Medical Image Segmentation. Image and Vision Computing, 2025.
 - Yi Lin, Xiao Fang, **Dong Zhang**, Kwang-Ting Cheng, and Hao Chen. Boosting Convolution with Efficient MLP-Permutation for Volumetric Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2025.
