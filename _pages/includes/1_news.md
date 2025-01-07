@@ -10,6 +10,10 @@
         </li> -->
         <li class="news-item">
             <span class="news-date">[2025/01]</span>
+            <span class="news-content">One paper about <span style="font-style: italic;">volumetric medical image segmentation</span> is accepted by TMI!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2025/01]</span>
             <span class="news-content">One paper about <span style="font-style: italic;">task-driven image quality enhancement</span> is accepted by TPAMI!</span>
         </li>
         <li class="news-item">
