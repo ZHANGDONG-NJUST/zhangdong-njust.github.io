@@ -22,8 +22,4 @@ My primary research interests are in machine learning, computer vision, and medi
 
 <!-- <a href='https://scholar.google.com/citations?user=K7LwtK0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsqsssq%2Fsqsssq.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 ---
-<p style="color:black;">We are seeking self-motivated Research Assistants and Postdoctoral Researchers who are interested in working on large-scale multi-modal foundation models and medical image analysis. We have a highly professional team, abundant computational resources, and offer very competitive salaries. If you are interested, please email me. Thanks!</p>
-
----
-
 <p style="color:#004479;">I would like to express heartfelt thanks to my beloved cat, ERLING (二零 in chinese), who was by my side throughout my doctoral journey. Sadly, ERLING passed away in a car accident in Dec. 2023. Although she was just a cat, her presence brought me comfort during many anxious and sleepless nights. I am forever grateful for her companionship and will always cherish the memories we shared.</p>
