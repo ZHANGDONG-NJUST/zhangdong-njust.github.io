@@ -143,13 +143,14 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/publication/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/publication/2.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 **Feature Pyramid Transformer**
 
-
 **Dong Zhang**, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, and Qianru Sun. 
+
 *European Conference on Computer Vision (ECCV)*, 2020.
 
 <!-- [[Paper]()] [<a href="">Link</a>] -->
